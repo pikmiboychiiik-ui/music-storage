@@ -6,10 +6,67 @@
       "bio": "Российская и белорусская певица, бывшая участница российской группы \"Френдзона\"",
       "genre": "",
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/___________.png?token=BXXPXMHV5Z5OPL7IO7NFAF3KEQLA2",
-      "releaseCount": 0,
+      "releaseCount": 1,
       "createdAt": "2026-06-06T12:42:57.166Z"
     }
   },
-  "releases": [],
+  "releases": [
+    {
+      "id": "1780750188570",
+      "artistId": "1780749777166",
+      "type": "album",
+      "title": "SHAWTY",
+      "date": "2023-11-17",
+      "genre": "Hip-hop, Pop, Trap",
+      "coverUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/covers/1780749777166_SHAWTY.png?token=BXXPXMAKP3NPXEIFFCP5LNTKEQLYU",
+      "tracks": [
+        {
+          "title": "Hello, my name is Baby",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_SHAWTY_0_Hello__my_name_is_Baby.mp3?token=BXXPXMFVRNS7PDOAM65PUFDKEQLY2"
+        },
+        {
+          "title": "DURAGA",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_SHAWTY_1_DURAGA.mp3?token=BXXPXMEXEE224EY4LKBMO73KEQLZA"
+        },
+        {
+          "title": "Принцесса Диана",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_SHAWTY_2________________.mp3?token=BXXPXMGRYDREAZR7HOYJ24TKEQLZE"
+        },
+        {
+          "title": "Ice Baby",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_SHAWTY_3_Ice_Baby.mp3?token=BXXPXMBG3LC74GLIB5HXW2DKEQLZK"
+        },
+        {
+          "title": "ЗАЙКА",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_SHAWTY_4______.mp3?token=BXXPXMGFA5IUVOMVM4XQASLKEQLZQ"
+        },
+        {
+          "title": "Забери меня ночью",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_SHAWTY_5__________________.mp3?token=BXXPXMDV6HMI3LMDS6VENDLKEQLZU"
+        },
+        {
+          "title": "Где Твои Манеры",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_SHAWTY_6________________.mp3?token=BXXPXMASG6RCE3O24PJF3F3KEQLZ2"
+        },
+        {
+          "title": "BABY vs. WORLD",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_SHAWTY_7_BABY_vs__WORLD.mp3?token=BXXPXMEZIVE6TM6Z3SGNNGTKEQL2A"
+        },
+        {
+          "title": "Shimmy Shimmy Ya!",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_SHAWTY_8_Shimmy_Shimmy_Ya_.mp3?token=BXXPXMDDCJIYP2GECJFLOGTKEQL2G"
+        },
+        {
+          "title": "Вивальди",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_SHAWTY_9_________.mp3?token=BXXPXMEZGOEXXI2VBFRRZJTKEQL2K"
+        },
+        {
+          "title": "GOLDA",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_SHAWTY_10_GOLDA.mp3?token=BXXPXME5JHE6YAHGTGQG5Q3KEQL2Q"
+        }
+      ],
+      "createdAt": "2026-06-06T12:49:48.570Z"
+    }
+  ],
   "presaves": []
 }
