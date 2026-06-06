@@ -6,7 +6,7 @@
       "bio": "Российская и белорусская певица, бывшая участница российской группы \"Френдзона\"",
       "genre": "Pop, Hip-hop",
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/Мэйби_Бэйби.png",
-      "releaseCount": 1,
+      "releaseCount": 2,
       "createdAt": "2026-06-06T12:42:57.166Z"
     }
   },
@@ -66,6 +66,22 @@
         }
       ],
       "createdAt": "2026-06-06T12:49:48.570Z"
+    },
+    {
+      "id": "1780760422806",
+      "artistId": "1780749777166",
+      "type": "single",
+      "title": "Силиконовый гном",
+      "date": "2025-07-19",
+      "genre": "Hip-hop, Rap",
+      "coverUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/covers/1780749777166_________________.png",
+      "tracks": [
+        {
+          "title": "Силиконовый гном",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166__________________0_________________.mp3"
+        }
+      ],
+      "createdAt": "2026-06-06T15:40:22.806Z"
     }
   ],
   "presaves": []
