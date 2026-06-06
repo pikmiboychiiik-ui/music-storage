@@ -12,62 +12,6 @@
   },
   "releases": [
     {
-      "id": "1780750188570",
-      "artistId": "1780749777166",
-      "type": "album",
-      "title": "SHAWTY",
-      "date": "2023-11-17",
-      "genre": "Hip-hop, Pop, Trap",
-      "coverUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/covers/SHAWTY.jpg",
-      "tracks": [
-        {
-          "title": "Hello, my name is Baby",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/Hello_my_name_is_Baby.mp3"
-        },
-        {
-          "title": "DURAGA",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/DURAGA.mp3"
-        },
-        {
-          "title": "Принцесса Диана",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/Принцесса_Диана.mp3"
-        },
-        {
-          "title": "Ice Baby",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/Ice_Baby.mp3"
-        },
-        {
-          "title": "ЗАЙКА",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/ЗАЙКА.mp3"
-        },
-        {
-          "title": "Забери меня ночью",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/Забери_меня_ночью.mp3"
-        },
-        {
-          "title": "Где Твои Манеры",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/Где_Твои_Манеры.mp3"
-        },
-        {
-          "title": "BABY vs. WORLD",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/BABY_vs_WORLD.mp3"
-        },
-        {
-          "title": "Shimmy Shimmy Ya!",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/Shimmy_Shimmy_Ya.mp3"
-        },
-        {
-          "title": "Вивальди",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/Вивальди.mp3"
-        },
-        {
-          "title": "GOLDA",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/GOLDA.mp3"
-        }
-      ],
-      "createdAt": "2026-06-06T12:49:48.570Z"
-    },
-    {
       "id": "1780760422806",
       "artistId": "1780749777166",
       "type": "single",
