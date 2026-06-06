@@ -6,7 +6,7 @@
       "bio": "Российская и белорусская певица, бывшая участница российской группы \"Френдзона\"",
       "genre": "Pop, Hip-hop",
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/Мэйби_Бэйби.png",
-      "releaseCount": 3,
+      "releaseCount": 2,
       "createdAt": "2026-06-06T12:42:57.166Z"
     }
   },
@@ -82,23 +82,6 @@
         }
       ],
       "createdAt": "2026-06-06T15:40:22.806Z"
-    },
-    {
-      "id": "1780769903500",
-      "artistId": "1780749777166",
-      "type": "single",
-      "title": "Феноменальна",
-      "date": "2026-05-29",
-      "genre": "Hip Hop",
-      "coverUrl": "",
-      "accentColor": "#f19c09",
-      "tracks": [
-        {
-          "title": "Феноменальна",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166______________0_____________.mp3"
-        }
-      ],
-      "createdAt": "2026-06-06T18:18:23.500Z"
     }
   ],
   "presaves": []
