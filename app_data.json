@@ -96,23 +96,6 @@
       "createdAt": "2026-06-06T18:39:25.900Z"
     },
     {
-      "id": "1780771594346",
-      "artistId": "1780749777166",
-      "type": "single",
-      "title": "Феноменальна",
-      "date": "2026-05-29",
-      "genre": "Hip Hop",
-      "coverUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/covers/1780749777166_____________.png",
-      "accentColor": "#ffae00",
-      "tracks": [
-        {
-          "title": "Феноменальна",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166______________0_____________.mp3"
-        }
-      ],
-      "createdAt": "2026-06-06T18:46:34.346Z"
-    },
-    {
       "id": "1780771716397",
       "artistId": "1780749777166",
       "type": "single",
