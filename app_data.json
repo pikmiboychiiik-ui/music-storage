@@ -6,7 +6,7 @@
       "bio": "Российская и белорусская певица, бывшая участница российской группы \"Френдзона\"",
       "genre": "Hip Hop",
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/Мэйби_Бэйби.png",
-      "releaseCount": 8,
+      "releaseCount": 9,
       "createdAt": "2026-06-06T12:42:57.166Z"
     }
   },
@@ -114,6 +114,74 @@
       "presaveLink": "m0-music://presave/1780749777166/1780777097945",
       "presaveDate": "2023-11-17",
       "createdAt": "2026-06-06T20:18:17.946Z"
+    },
+    {
+      "id": "1780836826306",
+      "artistId": "1780749777166",
+      "type": "album",
+      "title": "MAYDAY",
+      "date": "2025-08-01",
+      "genre": "Hip-hop",
+      "coverUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/covers/1780749777166_MAYDAY.jpg",
+      "tracks": [
+        {
+          "title": "Money Over Boys",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_0_Money_Over_Boys.mp3"
+        },
+        {
+          "title": "Oh My God!",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_1_Oh_My_God_.mp3"
+        },
+        {
+          "title": "Вуаля",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_2______.mp3"
+        },
+        {
+          "title": "Exactly",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_3_Exactly.mp3"
+        },
+        {
+          "title": "Лова Лова",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_4__________.mp3"
+        },
+        {
+          "title": "TRY ME",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_5_TRY_ME.mp3"
+        },
+        {
+          "title": "Пухлые Губы",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_6____________.mp3"
+        },
+        {
+          "title": "Не Беспокоюсь",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_7______________.mp3"
+        },
+        {
+          "title": "Попкорн",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_8________.mp3"
+        },
+        {
+          "title": "Клуб",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_9_____.mp3"
+        },
+        {
+          "title": "Onlyfans",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_10_Onlyfans.mp3"
+        },
+        {
+          "title": "Милли",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_11______.mp3"
+        },
+        {
+          "title": "Beamer, Benz or Bentley",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_12_Beamer__Benz_or_Bentley.mp3"
+        },
+        {
+          "title": "Baby Flow",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_13_Baby_Flow.mp3"
+        }
+      ],
+      "createdAt": "2026-06-07T12:53:46.306Z"
     }
   ],
   "presaves": [
