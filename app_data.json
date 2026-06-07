@@ -15,7 +15,7 @@
       "bio": "Американская инди-поп-группа из Сан-Диего, образована в 2010 году",
       "genre": "Indie Pop",
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/TV_Girl.png",
-      "releaseCount": 0,
+      "releaseCount": 1,
       "createdAt": "2026-06-07T20:07:52.741Z"
     }
   },
@@ -191,6 +191,71 @@
         }
       ],
       "createdAt": "2026-06-07T12:53:46.306Z"
+    },
+    {
+      "id": "1780865462560",
+      "artistId": "1780862872741",
+      "type": "album",
+      "title": "Who Really Cares",
+      "date": "2016-02-26",
+      "genre": "Indie Pop",
+      "coverUrl": "",
+      "accentColor": "#fe58c9",
+      "tracks": [
+        {
+          "title": "Taking What's Not Yours",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_Who_Really_Cares_0_Taking_What_s_Not_Yours.mp3",
+          "mood": "dreamy"
+        },
+        {
+          "title": "Song About Me",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_Who_Really_Cares_1_Song_About_Me.mp3",
+          "mood": "dreamy"
+        },
+        {
+          "title": "Cigarettes out the Window",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_Who_Really_Cares_2_Cigarettes_out_the_Window.mp3",
+          "mood": "melancholic"
+        },
+        {
+          "title": "Till You Tell Me to Leave",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_Who_Really_Cares_3_Till_You_Tell_Me_to_Leave.mp3",
+          "mood": "melancholic"
+        },
+        {
+          "title": "Not Allowed",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_Who_Really_Cares_4_Not_Allowed.mp3",
+          "mood": "melancholic"
+        },
+        {
+          "title": "(Do The) Act Like You Never Met Me",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_Who_Really_Cares_5__Do_The__Act_Like_You_Never_Met_Me.mp3",
+          "mood": "dreamy"
+        },
+        {
+          "title": "Safeword",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_Who_Really_Cares_6_Safeword.mp3",
+          "mood": "calm"
+        },
+        {
+          "title": "For You",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_Who_Really_Cares_7_For_You.mp3",
+          "mood": "dreamy"
+        },
+        {
+          "title": "Loving Machine",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_Who_Really_Cares_8_Loving_Machine.mp3",
+          "mood": "melancholic"
+        },
+        {
+          "title": "Heaven Is a Bedroom",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_Who_Really_Cares_9_Heaven_Is_a_Bedroom.mp3",
+          "mood": "dreamy"
+        }
+      ],
+      "presaveLink": "",
+      "presaveDate": "",
+      "createdAt": "2026-06-07T20:51:02.560Z"
     }
   ],
   "presaves": [
