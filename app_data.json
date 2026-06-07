@@ -114,20 +114,6 @@
       "presaveLink": "m0-music://presave/1780749777166/1780777097945",
       "presaveDate": "2023-11-17",
       "createdAt": "2026-06-06T20:18:17.946Z"
-    },
-    {
-      "id": "1780835998290",
-      "artistId": "1780749777166",
-      "type": "album",
-      "title": "MAYDAY",
-      "date": "2025-08-01",
-      "genre": "Hip Hop",
-      "coverUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/covers/1780749777166_MAYDAY.jpg",
-      "accentColor": "#ffc6b8",
-      "tracks": [],
-      "presaveLink": "m0-music://presave/1780749777166/1780835998290",
-      "presaveDate": "2025-08-01",
-      "createdAt": "2026-06-07T12:39:58.293Z"
     }
   ],
   "presaves": [
