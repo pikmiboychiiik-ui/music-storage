@@ -15,7 +15,7 @@
       "bio": "Американская инди-поп-группа из Сан-Диего, образована в 2010 году",
       "genre": "Indie Pop",
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/TV_Girl.png",
-      "releaseCount": 1,
+      "releaseCount": 2,
       "createdAt": "2026-06-07T20:07:52.741Z"
     }
   },
@@ -256,6 +256,81 @@
       "presaveLink": "",
       "presaveDate": "",
       "createdAt": "2026-06-07T20:51:02.560Z"
+    },
+    {
+      "id": "1780948443018",
+      "artistId": "1780862872741",
+      "type": "album",
+      "title": "French Exit",
+      "date": "2014-06-06",
+      "genre": "Indie Pop",
+      "coverUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/covers/1780862872741_French_Exit.png",
+      "accentColor": "#ffffff",
+      "tracks": [
+        {
+          "title": "Pantyhose",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_French_Exit_0_Pantyhose.mp3",
+          "mood": "dreamy"
+        },
+        {
+          "title": "Birds Don't Sing",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_French_Exit_1_Birds_Don_t_Sing.mp3",
+          "mood": "dreamy"
+        },
+        {
+          "title": "Louise",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_French_Exit_2_Louise.mp3",
+          "mood": "dreamy"
+        },
+        {
+          "title": "Hate yourself",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_French_Exit_3_Hate_yourself.mp3",
+          "mood": "energetic"
+        },
+        {
+          "title": "The Getaway",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_French_Exit_4_The_Getaway.mp3",
+          "mood": "dreamy"
+        },
+        {
+          "title": "Talk to Strangers",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_French_Exit_5_Talk_to_Strangers.mp3",
+          "mood": "melancholic"
+        },
+        {
+          "title": "The Blonde",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_French_Exit_6_The_Blonde.mp3",
+          "mood": "melancholic"
+        },
+        {
+          "title": "Daughter of a Cop",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_French_Exit_7_Daughter_of_a_Cop.mp3",
+          "mood": "dreamy"
+        },
+        {
+          "title": "Lovers Rock",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_French_Exit_8_Lovers_Rock.mp3",
+          "mood": "dreamy"
+        },
+        {
+          "title": "Her and Her Friend",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_French_Exit_9_Her_and_Her_Friend.mp3",
+          "mood": "calm"
+        },
+        {
+          "title": "Come When You Call",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_French_Exit_10_Come_When_You_Call.mp3",
+          "mood": "dreamy"
+        },
+        {
+          "title": "Anjela",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_French_Exit_11_Anjela.mp3",
+          "mood": "calm"
+        }
+      ],
+      "presaveLink": "",
+      "presaveDate": "",
+      "createdAt": "2026-06-08T19:54:03.018Z"
     }
   ],
   "presaves": [
