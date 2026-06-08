@@ -144,67 +144,82 @@
       "type": "album",
       "title": "MAYDAY",
       "date": "2025-08-01",
-      "genre": "Hip-hop",
+      "genre": "Acoustic",
       "coverUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/covers/1780749777166_MAYDAY.jpg",
       "tracks": [
         {
           "title": "Money Over Boys",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_0_Money_Over_Boys.mp3"
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_0_Money_Over_Boys.mp3",
+          "mood": "energetic"
         },
         {
           "title": "Oh My God!",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_1_Oh_My_God_.mp3"
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_1_Oh_My_God_.mp3",
+          "mood": "energetic"
         },
         {
           "title": "Вуаля",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_2______.mp3"
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_2______.mp3",
+          "mood": "energetic"
         },
         {
           "title": "Exactly",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_3_Exactly.mp3"
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_3_Exactly.mp3",
+          "mood": "energetic"
         },
         {
           "title": "Лова Лова",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_4__________.mp3"
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_4__________.mp3",
+          "mood": "energetic"
         },
         {
           "title": "TRY ME",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_5_TRY_ME.mp3"
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_5_TRY_ME.mp3",
+          "mood": "energetic"
         },
         {
           "title": "Пухлые Губы",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_6____________.mp3"
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_6____________.mp3",
+          "mood": "energetic"
         },
         {
           "title": "Не Беспокоюсь",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_7______________.mp3"
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_7______________.mp3",
+          "mood": "energetic"
         },
         {
           "title": "Попкорн",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_8________.mp3"
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_8________.mp3",
+          "mood": "energetic"
         },
         {
           "title": "Клуб",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_9_____.mp3"
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_9_____.mp3",
+          "mood": "energetic"
         },
         {
           "title": "Onlyfans",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_10_Onlyfans.mp3"
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_10_Onlyfans.mp3",
+          "mood": "energetic"
         },
         {
           "title": "Милли",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_11______.mp3"
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_11______.mp3",
+          "mood": "energetic"
         },
         {
           "title": "Beamer, Benz or Bentley",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_12_Beamer__Benz_or_Bentley.mp3"
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_12_Beamer__Benz_or_Bentley.mp3",
+          "mood": "energetic"
         },
         {
           "title": "Baby Flow",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_13_Baby_Flow.mp3"
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_13_Baby_Flow.mp3",
+          "mood": "energetic"
         }
       ],
-      "createdAt": "2026-06-07T12:53:46.306Z"
+      "createdAt": "2026-06-07T12:53:46.306Z",
+      "accentColor": "#ffffff"
     },
     {
       "id": "1780865462560",
