@@ -59,7 +59,8 @@
       "tracks": [
         {
           "title": "Клуб",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166______0_____.mp3"
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166______0_____.mp3",
+          "mood": "energetic"
         }
       ],
       "createdAt": "2026-06-06T18:53:29.943Z",
