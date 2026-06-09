@@ -33,7 +33,7 @@
       "bio": "Прославился в 2022 году с треком \"Hands Up!\", который завирусился в TikTok благодаря сопоставлению с персонажами «Южного Парка»",
       "genre": "Hyperpop",
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/6arelyhuman.png",
-      "releaseCount": 0,
+      "releaseCount": 1,
       "createdAt": "2026-06-09T16:49:42.687Z"
     }
   },
@@ -438,6 +438,26 @@
       "presaveLink": "",
       "presaveDate": "",
       "createdAt": "2026-06-09T05:53:23.622Z"
+    },
+    {
+      "id": "1781023952184",
+      "artistId": "1781023782687",
+      "type": "single",
+      "title": "So Perfect",
+      "date": "2025-04-02",
+      "genre": "Hyperpop",
+      "coverUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/covers/1781023782687_So_Perfect.png",
+      "accentColor": "#ffffff",
+      "tracks": [
+        {
+          "title": "So Perfect",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1781023782687_So_Perfect_0_So_Perfect.mp3",
+          "mood": "energetic"
+        }
+      ],
+      "presaveLink": "",
+      "presaveDate": "",
+      "createdAt": "2026-06-09T16:52:32.184Z"
     }
   ],
   "presaves": [
