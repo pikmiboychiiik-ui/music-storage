@@ -17,6 +17,15 @@
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/TV_Girl.png",
       "releaseCount": 2,
       "createdAt": "2026-06-07T20:07:52.741Z"
+    },
+    "1780984005683": {
+      "id": "1780984005683",
+      "name": "ray!",
+      "bio": "Автор и исполнитель, сочетающая инди-поп и электронную музыку. В своих песнях затрагивает темы саморазвития, отношений и поисков себя",
+      "genre": "Indie Pop",
+      "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/ray_.png",
+      "releaseCount": 0,
+      "createdAt": "2026-06-09T05:46:45.683Z"
     }
   },
   "releases": [
