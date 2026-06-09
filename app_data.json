@@ -532,7 +532,40 @@
           "title": "BABYBARS 2",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_BABYBARS_3_0_BABYBARS_2.mp3",
           "mood": "energetic",
-          "lyrics": []
+          "lyrics": [
+            {
+              "time": 1.322928,
+              "text": "Недоступна, а я"
+            },
+            {
+              "time": 3.658148,
+              "text": "МЭЙБИ"
+            },
+            {
+              "time": 4.25,
+              "text": "МЭЙБИ"
+            },
+            {
+              "time": 4.45,
+              "text": "Так хочу тебя поцеловать"
+            },
+            {
+              "time": 7.017437,
+              "text": "Но ты не готова, а-а"
+            },
+            {
+              "time": 10.192159,
+              "text": "Вижу это по твоим глазам"
+            },
+            {
+              "time": 10.825516,
+              "text": "H-H-Hi, Mr. Gore"
+            },
+            {
+              "time": 12.635159,
+              "text": "Не проводи параллели"
+            }
+          ]
         }
       ],
       "presaveLink": ""
