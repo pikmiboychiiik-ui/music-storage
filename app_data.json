@@ -6,7 +6,7 @@
       "bio": "Российская и белорусская певица, бывшая участница российской группы \"Френдзона\"",
       "genre": "Hip Hop",
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/Мэйби_Бэйби.png",
-      "releaseCount": 9,
+      "releaseCount": 10,
       "createdAt": "2026-06-06T12:42:57.166Z"
     },
     "1780862872741": {
@@ -50,7 +50,8 @@
         {
           "title": "Силиконовый гном",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166__________________0_________________.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         }
       ],
       "createdAt": "2026-06-06T15:40:22.806Z",
@@ -80,7 +81,8 @@
         {
           "title": "Клуб",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166______0_____.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         }
       ],
       "createdAt": "2026-06-06T18:53:29.943Z",
@@ -99,57 +101,68 @@
         {
           "title": "Hello, my name is Baby",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_SHAWTY_0_Hello__my_name_is_Baby.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         },
         {
           "title": "DURAGA",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_SHAWTY_1_DURAGA.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         },
         {
           "title": "Принцесса Диана",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_SHAWTY_2________________.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         },
         {
           "title": "Ice Baby",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_SHAWTY_3_Ice_Baby.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         },
         {
           "title": "ЗАЙКА",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_SHAWTY_4______.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         },
         {
           "title": "Забери меня ночью",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_SHAWTY_5__________________.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         },
         {
           "title": "Где Твои Манеры",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_SHAWTY_6________________.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         },
         {
           "title": "BABY vs. WORLD",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_SHAWTY_7_BABY_vs__WORLD.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         },
         {
           "title": "Shimmy Shimmy Ya!",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_SHAWTY_8_Shimmy_Shimmy_Ya_.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         },
         {
           "title": "Вивальди",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_SHAWTY_9_________.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         },
         {
           "title": "GOLDA",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_SHAWTY_10_GOLDA.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         }
       ],
       "presaveLink": "m0-music://presave/1780749777166/1780777097945",
@@ -168,72 +181,86 @@
         {
           "title": "Money Over Boys",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_0_Money_Over_Boys.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         },
         {
           "title": "Oh My God!",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_1_Oh_My_God_.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         },
         {
           "title": "Вуаля",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_2______.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         },
         {
           "title": "Exactly",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_3_Exactly.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         },
         {
           "title": "Лова Лова",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_4__________.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         },
         {
           "title": "TRY ME",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_5_TRY_ME.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         },
         {
           "title": "Пухлые Губы",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_6____________.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         },
         {
           "title": "Не Беспокоюсь",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_7______________.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         },
         {
           "title": "Попкорн",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_8________.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         },
         {
           "title": "Клуб",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_9_____.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         },
         {
           "title": "Onlyfans",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_10_Onlyfans.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         },
         {
           "title": "Милли",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_11______.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         },
         {
           "title": "Beamer, Benz or Bentley",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_12_Beamer__Benz_or_Bentley.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         },
         {
           "title": "Baby Flow",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_MAYDAY_13_Baby_Flow.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         }
       ],
       "createdAt": "2026-06-07T12:53:46.306Z",
@@ -252,52 +279,62 @@
         {
           "title": "Taking What's Not Yours",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_Who_Really_Cares_0_Taking_What_s_Not_Yours.mp3",
-          "mood": "dreamy"
+          "mood": "dreamy",
+          "lyrics": []
         },
         {
           "title": "Song About Me",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_Who_Really_Cares_1_Song_About_Me.mp3",
-          "mood": "dreamy"
+          "mood": "dreamy",
+          "lyrics": []
         },
         {
           "title": "Cigarettes out the Window",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_Who_Really_Cares_2_Cigarettes_out_the_Window.mp3",
-          "mood": "melancholic"
+          "mood": "melancholic",
+          "lyrics": []
         },
         {
           "title": "Till You Tell Me to Leave",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_Who_Really_Cares_3_Till_You_Tell_Me_to_Leave.mp3",
-          "mood": "melancholic"
+          "mood": "melancholic",
+          "lyrics": []
         },
         {
           "title": "Not Allowed",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_Who_Really_Cares_4_Not_Allowed.mp3",
-          "mood": "melancholic"
+          "mood": "melancholic",
+          "lyrics": []
         },
         {
           "title": "(Do The) Act Like You Never Met Me",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_Who_Really_Cares_5__Do_The__Act_Like_You_Never_Met_Me.mp3",
-          "mood": "dreamy"
+          "mood": "dreamy",
+          "lyrics": []
         },
         {
           "title": "Safeword",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_Who_Really_Cares_6_Safeword.mp3",
-          "mood": "calm"
+          "mood": "calm",
+          "lyrics": []
         },
         {
           "title": "For You",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_Who_Really_Cares_7_For_You.mp3",
-          "mood": "dreamy"
+          "mood": "dreamy",
+          "lyrics": []
         },
         {
           "title": "Loving Machine",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_Who_Really_Cares_8_Loving_Machine.mp3",
-          "mood": "melancholic"
+          "mood": "melancholic",
+          "lyrics": []
         },
         {
           "title": "Heaven Is a Bedroom",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_Who_Really_Cares_9_Heaven_Is_a_Bedroom.mp3",
-          "mood": "dreamy"
+          "mood": "dreamy",
+          "lyrics": []
         }
       ],
       "presaveLink": "",
@@ -317,62 +354,74 @@
         {
           "title": "Pantyhose",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_French_Exit_0_Pantyhose.mp3",
-          "mood": "dreamy"
+          "mood": "dreamy",
+          "lyrics": []
         },
         {
           "title": "Birds Don't Sing",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_French_Exit_1_Birds_Don_t_Sing.mp3",
-          "mood": "dreamy"
+          "mood": "dreamy",
+          "lyrics": []
         },
         {
           "title": "Louise",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_French_Exit_2_Louise.mp3",
-          "mood": "dreamy"
+          "mood": "dreamy",
+          "lyrics": []
         },
         {
           "title": "Hate yourself",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_French_Exit_3_Hate_yourself.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         },
         {
           "title": "The Getaway",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_French_Exit_4_The_Getaway.mp3",
-          "mood": "dreamy"
+          "mood": "dreamy",
+          "lyrics": []
         },
         {
           "title": "Talk to Strangers",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_French_Exit_5_Talk_to_Strangers.mp3",
-          "mood": "melancholic"
+          "mood": "melancholic",
+          "lyrics": []
         },
         {
           "title": "The Blonde",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_French_Exit_6_The_Blonde.mp3",
-          "mood": "melancholic"
+          "mood": "melancholic",
+          "lyrics": []
         },
         {
           "title": "Daughter of a Cop",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_French_Exit_7_Daughter_of_a_Cop.mp3",
-          "mood": "dreamy"
+          "mood": "dreamy",
+          "lyrics": []
         },
         {
           "title": "Lovers Rock",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_French_Exit_8_Lovers_Rock.mp3",
-          "mood": "dreamy"
+          "mood": "dreamy",
+          "lyrics": []
         },
         {
           "title": "Her and Her Friend",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_French_Exit_9_Her_and_Her_Friend.mp3",
-          "mood": "calm"
+          "mood": "calm",
+          "lyrics": []
         },
         {
           "title": "Come When You Call",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_French_Exit_10_Come_When_You_Call.mp3",
-          "mood": "dreamy"
+          "mood": "dreamy",
+          "lyrics": []
         },
         {
           "title": "Anjela",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780862872741_French_Exit_11_Anjela.mp3",
-          "mood": "calm"
+          "mood": "calm",
+          "lyrics": []
         }
       ],
       "presaveLink": "",
@@ -392,47 +441,56 @@
         {
           "title": "Не хочу думать - иногда",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780984005683________________0________________________.mp3",
-          "mood": "dark"
+          "mood": "dark",
+          "lyrics": []
         },
         {
           "title": "Поцелуй на счастье",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780984005683________________1___________________.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         },
         {
           "title": "Пол человека",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780984005683________________2_____________.mp3",
-          "mood": "dark"
+          "mood": "dark",
+          "lyrics": []
         },
         {
           "title": "Без повода",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780984005683________________3___________.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         },
         {
           "title": "Ломай потолок",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780984005683________________4______________.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         },
         {
           "title": "Обезбол",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780984005683________________5________.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         },
         {
           "title": "Удары-поцелуи",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780984005683________________6______________.mp3",
-          "mood": "dark"
+          "mood": "dark",
+          "lyrics": []
         },
         {
           "title": "Молодость",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780984005683________________7__________.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         },
         {
           "title": "C6H12O6 (глюкоза)",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780984005683________________8_C6H12O6__________.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         }
       ],
       "presaveLink": "",
@@ -452,12 +510,32 @@
         {
           "title": "So Perfect",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1781023782687_So_Perfect_0_So_Perfect.mp3",
-          "mood": "energetic"
+          "mood": "energetic",
+          "lyrics": []
         }
       ],
       "presaveLink": "",
       "presaveDate": "",
       "createdAt": "2026-06-09T16:52:32.184Z"
+    },
+    {
+      "id": "1781025370374",
+      "artistId": "1780749777166",
+      "type": "single",
+      "title": "BABYBARS 3",
+      "date": "2023-09-22",
+      "genre": "Rap",
+      "coverUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/covers/1780749777166_BABYBARS_3.png",
+      "accentColor": "#ffffff",
+      "tracks": [
+        {
+          "title": "BABYBARS 2",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_BABYBARS_3_0_BABYBARS_2.mp3",
+          "mood": "energetic",
+          "lyrics": []
+        }
+      ],
+      "presaveLink": ""
     }
   ],
   "presaves": [
