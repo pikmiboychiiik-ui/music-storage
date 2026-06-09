@@ -24,7 +24,7 @@
       "bio": "Автор и исполнитель, сочетающая инди-поп и электронную музыку. В своих песнях затрагивает темы саморазвития, отношений и поисков себя",
       "genre": "Indie Pop",
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/ray_.png",
-      "releaseCount": 0,
+      "releaseCount": 1,
       "createdAt": "2026-06-09T05:46:45.683Z"
     }
   },
@@ -369,6 +369,66 @@
       "presaveLink": "",
       "presaveDate": "",
       "createdAt": "2026-06-08T19:54:03.018Z"
+    },
+    {
+      "id": "1780984403622",
+      "artistId": "1780984005683",
+      "type": "album",
+      "title": "Интернет людей",
+      "date": "2025-06-06",
+      "genre": "Indie Pop",
+      "coverUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/covers/1780984005683_______________.jpg",
+      "accentColor": "#ffffff",
+      "tracks": [
+        {
+          "title": "Не хочу думать - иногда",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780984005683________________0________________________.mp3",
+          "mood": "dark"
+        },
+        {
+          "title": "Поцелуй на счастье",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780984005683________________1___________________.mp3",
+          "mood": "energetic"
+        },
+        {
+          "title": "Пол человека",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780984005683________________2_____________.mp3",
+          "mood": "dark"
+        },
+        {
+          "title": "Без повода",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780984005683________________3___________.mp3",
+          "mood": "energetic"
+        },
+        {
+          "title": "Ломай потолок",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780984005683________________4______________.mp3",
+          "mood": "energetic"
+        },
+        {
+          "title": "Обезбол",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780984005683________________5________.mp3",
+          "mood": "energetic"
+        },
+        {
+          "title": "Удары-поцелуи",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780984005683________________6______________.mp3",
+          "mood": "dark"
+        },
+        {
+          "title": "Молодость",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780984005683________________7__________.mp3",
+          "mood": "energetic"
+        },
+        {
+          "title": "C6H12O6 (глюкоза)",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780984005683________________8_C6H12O6__________.mp3",
+          "mood": "energetic"
+        }
+      ],
+      "presaveLink": "",
+      "presaveDate": "",
+      "createdAt": "2026-06-09T05:53:23.622Z"
     }
   ],
   "presaves": [
