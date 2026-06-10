@@ -514,223 +514,338 @@
           "lyrics": [
             {
               "time": 1.197642,
-              "text": "Yo!"
+              "text": "Yo!",
+              "effects": [
+                {
+                  "id": "flash_white",
+                  "name": "💥 WHITE FLASH",
+                  "timestamp": 1781109958154
+                }
+              ]
             },
             {
               "time": 8.305275,
-              "text": "You got me feeling like a nympho (Nympho)"
+              "text": "You got me feeling like a nympho (Nympho)",
+              "effects": []
             },
             {
               "time": 10,
-              "text": "I stay dolled up just like a slut (Like a slut)"
+              "text": "I stay dolled up just like a slut (Like a slut)",
+              "effects": []
             },
             {
               "time": 13,
-              "text": "He wanna eat me like a Bento"
+              "text": "He wanna eat me like a Bento",
+              "effects": []
             },
             {
               "time": 17.796431,
-              "text": "So addicted, can't get enough"
+              "text": "So addicted, can't get enough",
+              "effects": []
             },
             {
               "time": 20.511978,
-              "text": "Wanna call me a fag, but still take a puff"
+              "text": "Wanna call me a fag, but still take a puff",
+              "effects": []
             },
             {
               "time": 23.61109,
-              "text": "I-I-I don't feel like Lindsay, bitch, I'm Hilary Duff"
+              "text": "I-I-I don't feel like Lindsay, bitch, I'm Hilary Duff",
+              "effects": []
             },
             {
               "time": 25,
-              "text": "Fe-fe-feelin' sexy in my mini dress, bestie out here screaming, \"Yes\""
+              "text": "Fe-fe-feelin' sexy in my mini dress, bestie out here screaming, \"Yes\"",
+              "effects": []
             },
             {
               "time": 29,
-              "text": "I can get you so obsessed, so obsessed"
+              "text": "I can get you so obsessed, so obsessed",
+              "effects": []
             },
             {
               "time": 33.794617,
-              "text": "I am such a pretty bitch, "
+              "text": "I am such a pretty bitch, ",
+              "effects": []
             },
             {
               "time": 34,
-              "text": "go-go-got diamonds on my wrist (Oh)"
+              "text": "go-go-got diamonds on my wrist (Oh)",
+              "effects": []
             },
             {
               "time": 37.482698,
-              "text": "To me, you don't exist"
+              "text": "To me, you don't exist",
+              "effects": []
             },
             {
               "time": 38.822787,
-              "text": "SO"
+              "text": "SO",
+              "effects": [
+                {
+                  "id": "flash_white",
+                  "name": "💥 WHITE FLASH",
+                  "timestamp": 1781109966975
+                }
+              ]
             },
             {
               "time": 39.258945,
-              "text": "PER"
+              "text": "PER",
+              "effects": [
+                {
+                  "id": "flash_white",
+                  "name": "💥 WHITE FLASH",
+                  "timestamp": 1781109978400
+                }
+              ]
             },
             {
               "time": 39.5,
-              "text": "FECT"
+              "text": "FECT",
+              "effects": [
+                {
+                  "id": "flash_white",
+                  "name": "💥 WHITE FLASH",
+                  "timestamp": 1781109986770
+                }
+              ]
             },
             {
               "time": 40.06239,
-              "text": "I am everything you wish"
+              "text": "I am everything you wish",
+              "effects": []
             },
             {
               "time": 41,
-              "text": "got big and juicy lips (Oh)"
+              "text": "got big and juicy lips (Oh)",
+              "effects": []
             },
             {
               "time": 43,
-              "text": "I know you wanna kiss"
+              "text": "I know you wanna kiss",
+              "effects": []
             },
             {
               "time": 45.159865,
-              "text": "SO"
+              "text": "SO",
+              "effects": [
+                {
+                  "id": "flash_white",
+                  "name": "💥 WHITE FLASH",
+                  "timestamp": 1781109998474
+                }
+              ]
             },
             {
               "time": 45.2,
-              "text": "So perfect!"
+              "text": "So perfect!",
+              "effects": []
             },
             {
               "time": 46.856369,
-              "text": "So perfect (Oh)"
+              "text": "So perfect (Oh)",
+              "effects": []
             },
             {
               "time": 48.372029,
-              "text": "So perfect (Oh)"
+              "text": "So perfect (Oh)",
+              "effects": []
             },
             {
               "time": 49.923265,
-              "text": "So perfect (Oh)"
+              "text": "So perfect (Oh)",
+              "effects": []
             },
             {
               "time": 53.351518,
-              "text": "So perfect (Oh)"
+              "text": "So perfect (Oh)",
+              "effects": []
             },
             {
               "time": 54.77653,
-              "text": "So perfect (Oh)"
+              "text": "So perfect (Oh)",
+              "effects": []
             },
             {
               "time": 56.229727,
-              "text": "So perfect (Oh)"
+              "text": "So perfect (Oh)",
+              "effects": []
             },
             {
               "time": 58.047243,
-              "text": "So perfect (Oh)"
+              "text": "So perfect (Oh)",
+              "effects": []
             },
             {
               "time": 60,
-              "text": ""
+              "text": "",
+              "effects": []
             },
             {
               "time": 68.504479,
-              "text": "Bi-bi-bitch, I'm lux, never broke"
+              "text": "Bi-bi-bitch, I'm lux, never broke",
+              "effects": [
+                {
+                  "id": "flash_rim",
+                  "name": "🔆 RIM LIGHT",
+                  "timestamp": 1781110041401
+                }
+              ]
             },
             {
               "time": 70.00422,
-              "text": "Independent, bitch, I'm chose"
+              "text": "Independent, bitch, I'm chose",
+              "effects": []
             },
             {
               "time": 71.843755,
-              "text": "Sign his nipple with a poem"
+              "text": "Sign his nipple with a poem",
+              "effects": []
             },
             {
               "time": 73.249658,
-              "text": "I'm like Edgar Allan Poe (Oh)"
+              "text": "I'm like Edgar Allan Poe (Oh)",
+              "effects": []
             },
             {
               "time": 75.011904,
-              "text": "I got money in the sack"
+              "text": "I got money in the sack",
+              "effects": []
             },
             {
               "time": 76.567715,
-              "text": "(Wait, 6arely, can we, like, bring the verse back real quick?)"
+              "text": "(Wait, 6arely, can we, like, bring the verse back real quick?)",
+              "effects": []
             },
             {
               "time": 78.706275,
-              "text": "I'm acting abrupt 'cause I am a slut"
+              "text": "I'm acting abrupt 'cause I am a slut",
+              "effects": []
             },
             {
               "time": 80.495302,
-              "text": "While I'm having sex, they all get depressed"
+              "text": "While I'm having sex, they all get depressed",
+              "effects": []
             },
             {
               "time": 82.187316,
-              "text": "You're throwin' a fit 'cause I made your hits"
+              "text": "You're throwin' a fit 'cause I made your hits",
+              "effects": []
             },
             {
               "time": 83.619391,
-              "text": "You're getting bored, I'm getting lit"
+              "text": "You're getting bored, I'm getting lit",
+              "effects": []
             },
             {
               "time": 85.1712,
-              "text": "I know you wishing you were us"
+              "text": "I know you wishing you were us",
+              "effects": []
             },
             {
               "time": 86.710702,
-              "text": "So sexy, you can't screw with us"
+              "text": "So sexy, you can't screw with us",
+              "effects": []
             },
             {
               "time": 89.017577,
-              "text": "And this is just the life of a bimbo and a scene queen"
+              "text": "And this is just the life of a bimbo and a scene queen",
+              "effects": []
             },
             {
               "time": 91.38325,
-              "text": "You can call me a bitch, but I'm not no pet"
+              "text": "You can call me a bitch, but I'm not no pet",
+              "effects": []
             },
             {
               "time": 94.006854,
-              "text": "I don't feel like Ellie Woods, bitch, I am so Paulette"
+              "text": "I don't feel like Ellie Woods, bitch, I am so Paulette",
+              "effects": []
             },
             {
               "time": 97.167012,
-              "text": "You can hang just for a second, feel the glamour and the diamonds"
+              "text": "You can hang just for a second, feel the glamour and the diamonds",
+              "effects": []
             },
             {
               "time": 100.484552,
-              "text": "If you're feelin' so sexy, you should sing this song, and it goes"
+              "text": "If you're feelin' so sexy, you should sing this song, and it goes",
+              "effects": []
             },
             {
               "time": 104.25557,
-              "text": "I am such a pretty bitch, "
+              "text": "I am such a pretty bitch, ",
+              "effects": []
             },
             {
               "time": 106.254464,
-              "text": "go-go-got diamonds on my wrist (Oh)"
+              "text": "go-go-got diamonds on my wrist (Oh)",
+              "effects": []
             },
             {
               "time": 107.788622,
-              "text": "To me, you don't exist"
+              "text": "To me, you don't exist",
+              "effects": []
             },
             {
               "time": 109.150941,
-              "text": "SO"
+              "text": "SO",
+              "effects": [
+                {
+                  "id": "flash_white",
+                  "name": "💥 WHITE FLASH",
+                  "timestamp": 1781110050558
+                }
+              ]
             },
             {
               "time": 109.591356,
-              "text": "PER"
+              "text": "PER",
+              "effects": [
+                {
+                  "id": "flash_white",
+                  "name": "💥 WHITE FLASH",
+                  "timestamp": 1781110057464
+                }
+              ]
             },
             {
               "time": 110.014002,
-              "text": "FECT"
+              "text": "FECT",
+              "effects": [
+                {
+                  "id": "flash_white",
+                  "name": "💥 WHITE FLASH",
+                  "timestamp": 1781110062735
+                }
+              ]
             },
             {
               "time": 110.654172,
-              "text": "I am everything you wish"
+              "text": "I am everything you wish",
+              "effects": []
             },
             {
               "time": 112.50366,
-              "text": "got big and juicy lips (Oh)"
+              "text": "got big and juicy lips (Oh)",
+              "effects": []
             },
             {
               "time": 114.218767,
-              "text": "I know you wanna kiss"
+              "text": "I know you wanna kiss",
+              "effects": []
             },
             {
               "time": 115.722202,
-              "text": "SO PERFECT"
+              "text": "SO PERFECT",
+              "effects": [
+                {
+                  "id": "flash_double",
+                  "name": "💥 DOUBLE FLASH",
+                  "timestamp": 1781110073220
+                }
+              ]
             }
           ]
         }
@@ -756,279 +871,348 @@
           "lyrics": [
             {
               "time": 1.322928,
-              "text": "Недоступна, а я"
+              "text": "Недоступна, а я",
+              "effects": []
             },
             {
               "time": 3.658148,
-              "text": "МЭЙБИ"
+              "text": "МЭЙБИ",
+              "effects": []
             },
             {
               "time": 4.25,
-              "text": "МЭЙБИ"
+              "text": "МЭЙБИ",
+              "effects": []
             },
             {
               "time": 4.45,
-              "text": "Так хочу тебя поцеловать"
+              "text": "Так хочу тебя поцеловать",
+              "effects": []
             },
             {
               "time": 7.017437,
-              "text": "Но ты не готова, а-а"
+              "text": "Но ты не готова, а-а",
+              "effects": []
             },
             {
               "time": 10.192159,
-              "text": "Вижу это по твоим глазам"
+              "text": "Вижу это по твоим глазам",
+              "effects": []
             },
             {
               "time": 10.825516,
-              "text": "H-H-Hi, Mr. Gore"
+              "text": "H-H-Hi, Mr. Gore",
+              "effects": []
             },
             {
               "time": 12.635159,
-              "text": "Не проводи параллели"
+              "text": "Не проводи параллели",
+              "effects": []
             },
             {
               "time": 13.743414,
-              "text": "Рэперы — дети, я типа R. Kelly"
+              "text": "Рэперы — дети, я типа R. Kelly",
+              "effects": []
             },
             {
               "time": 15.253781,
-              "text": "Жарю на гриле я филе форели"
+              "text": "Жарю на гриле я филе форели",
+              "effects": []
             },
             {
               "time": 16.859234,
-              "text": "У меня платье от Schiaparelli"
+              "text": "У меня платье от Schiaparelli",
+              "effects": []
             },
             {
               "time": 18.334756,
-              "text": "Все мои бывшие — крысы"
+              "text": "Все мои бывшие — крысы",
+              "effects": []
             },
             {
               "time": 19.354339,
-              "text": "Я ставила опыты, вы типа биомодели"
+              "text": "Я ставила опыты, вы типа биомодели",
+              "effects": []
             },
             {
               "time": 21.317182,
-              "text": "Я убиваю всегда своих братиков"
+              "text": "Я убиваю всегда своих братиков",
+              "effects": []
             },
             {
               "time": 22.813441,
-              "text": "Они зовут меня YNW Melly (а)"
+              "text": "Они зовут меня YNW Melly (а)",
+              "effects": []
             },
             {
               "time": 24.869997,
-              "text": "МЭЙБИ — живая легенда (стиль)"
+              "text": "МЭЙБИ — живая легенда (стиль)",
+              "effects": []
             },
             {
               "time": 26.432247,
-              "text": "Я нереальная детка"
+              "text": "Я нереальная детка",
+              "effects": []
             },
             {
               "time": 27.482672,
-              "text": "Все мои деньги лежат по пакетам"
+              "text": "Все мои деньги лежат по пакетам",
+              "effects": []
             },
             {
               "time": 28.943261,
-              "text": "Вот для чего мне пакет для пакетов"
+              "text": "Вот для чего мне пакет для пакетов",
+              "effects": []
             },
             {
               "time": 30.415622,
-              "text": "Обиделась, если я надула губы (ву-а)"
+              "text": "Обиделась, если я надула губы (ву-а)",
+              "effects": []
             },
             {
               "time": 32.386785,
-              "text": "Я не хожу по хирургам"
+              "text": "Я не хожу по хирургам",
+              "effects": []
             },
             {
               "time": 33.476803,
-              "text": "Девочки, рядом со мною вы пешки"
+              "text": "Девочки, рядом со мною вы пешки",
+              "effects": []
             },
             {
               "time": 34.86231,
-              "text": "Они не видали такую фигуру (а)"
+              "text": "Они не видали такую фигуру (а)",
+              "effects": []
             },
             {
               "time": 36.945943,
-              "text": "Рэпер читает про стики, но все его стики, походу, для IQOS"
+              "text": "Рэпер читает про стики, но все его стики, походу, для IQOS",
+              "effects": []
             },
             {
               "time": 39.68644,
-              "text": "У моей тимы на кухне далеко не cookie — я говорю не про iOS"
+              "text": "У моей тимы на кухне далеко не cookie — я говорю не про iOS",
+              "effects": []
             },
             {
               "time": 42.796759,
-              "text": "Я заплетаю косички — им позавидует Yanix"
+              "text": "Я заплетаю косички — им позавидует Yanix",
+              "effects": []
             },
             {
               "time": 44.822989,
-              "text": "Я легендарна на любом жанре"
+              "text": "Я легендарна на любом жанре",
+              "effects": []
             },
             {
               "time": 46.477451,
-              "text": "Эксперимент удался — мне позавидует Mamix (ха-ха)"
+              "text": "Эксперимент удался — мне позавидует Mamix (ха-ха)",
+              "effects": []
             },
             {
               "time": 49.589607,
-              "text": "Эй, ты не sugar daddy, на тебе шуба деда (а)"
+              "text": "Эй, ты не sugar daddy, на тебе шуба деда (а)",
+              "effects": []
             },
             {
               "time": 52.576445,
-              "text": "Говорил: «МЭЙБИ — сука», все твои суки с МЭЙБИ (bitch)"
+              "text": "Говорил: «МЭЙБИ — сука», все твои суки с МЭЙБИ (bitch)",
+              "effects": []
             },
             {
               "time": 55.615745,
-              "text": "У тебя шутер в Steam’e, у меня шутер в гетто"
+              "text": "У тебя шутер в Steam’e, у меня шутер в гетто",
+              "effects": []
             },
             {
               "time": 58.573206,
-              "text": "Эй, ты не superhero, перед тобой super baby (а)"
+              "text": "Эй, ты не superhero, перед тобой super baby (а)",
+              "effects": []
             },
             {
               "time": 61.965219,
-              "text": "МЭЙБИ, МЭЙБИ — bitch"
+              "text": "МЭЙБИ, МЭЙБИ — bitch",
+              "effects": []
             },
             {
               "time": 64.350618,
-              "text": "Baby gang, baby world"
+              "text": "Baby gang, baby world",
+              "effects": []
             },
             {
               "time": 66.424846,
-              "text": "Покажи мне, кто горячее, чем я?"
+              "text": "Покажи мне, кто горячее, чем я?",
+              "effects": []
             },
             {
               "time": 68.600149,
-              "text": "Вы готовы? Вы не готовы"
+              "text": "Вы готовы? Вы не готовы",
+              "effects": []
             },
             {
               "time": 70.622779,
-              "text": "Ещё раз, я сделаю это, МЭЙБИ"
+              "text": "Ещё раз, я сделаю это, МЭЙБИ",
+              "effects": []
             },
             {
               "time": 73.027965,
-              "text": "Эй, у МЭЙБИ всё окей (окей)"
+              "text": "Эй, у МЭЙБИ всё окей (окей)",
+              "effects": []
             },
             {
               "time": 74.511916,
-              "text": "Skinny bae, как Coi Leray (пр-р)"
+              "text": "Skinny bae, как Coi Leray (пр-р)",
+              "effects": []
             },
             {
               "time": 76.193466,
-              "text": "Я наколдовала fame (шух)"
+              "text": "Я наколдовала fame (шух)",
+              "effects": []
             },
             {
               "time": 77.528592,
-              "text": "Ведь за плечами школа фей (вжух)"
+              "text": "Ведь за плечами школа фей (вжух)",
+              "effects": []
             },
             {
               "time": 79.317715,
-              "text": "Миллион на чёрный день (cash-cash)"
+              "text": "Миллион на чёрный день (cash-cash)",
+              "effects": []
             },
             {
               "time": 80.514906,
-              "text": "Ярче всех bitch, хоть убей (пау)"
+              "text": "Ярче всех bitch, хоть убей (пау)",
+              "effects": []
             },
             {
               "time": 82.158428,
-              "text": "Ты не Spider-Man, сынок"
+              "text": "Ты не Spider-Man, сынок",
+              "effects": []
             },
             {
               "time": 83.411023,
-              "text": "Но для тебя я тётя МЭЙ (punch)"
+              "text": "Но для тебя я тётя МЭЙ (punch)",
+              "effects": []
             },
             {
               "time": 85.637324,
-              "text": "Мне предлагали фиты эти рэперы"
+              "text": "Мне предлагали фиты эти рэперы",
+              "effects": []
             },
             {
               "time": 87.196951,
-              "text": "Sorry, вы не попадаете в такт (факт-факт)"
+              "text": "Sorry, вы не попадаете в такт (факт-факт)",
+              "effects": []
             },
             {
               "time": 88.630014,
-              "text": "Я запишу с вами несколько бэнгеров, если вы там зачитаете так (так)"
+              "text": "Я запишу с вами несколько бэнгеров, если вы там зачитаете так (так)",
+              "effects": []
             },
             {
               "time": 91.595979,
-              "text": "У тебя есть beat pack (ага)"
+              "text": "У тебя есть beat pack (ага)",
+              "effects": []
             },
             {
               "time": 92.862301,
-              "text": "У меня есть impact (да)"
+              "text": "У меня есть impact (да)",
+              "effects": []
             },
             {
               "time": 93.956874,
-              "text": "Барак Обама услышал меня на бите"
+              "text": "Барак Обама услышал меня на бите",
+              "effects": []
             },
             {
               "time": 95.864925,
-              "text": "И теперь у меня есть green card (у-у)"
+              "text": "И теперь у меня есть green card (у-у)",
+              "effects": []
             },
             {
               "time": 97.6818,
-              "text": "Вы копируете МЭЙБИ"
+              "text": "Вы копируете МЭЙБИ",
+              "effects": []
             },
             {
               "time": 99.216479,
-              "text": "Даже ваши GUCCI — fake’и (may)"
+              "text": "Даже ваши GUCCI — fake’и (may)",
+              "effects": []
             },
             {
               "time": 100.742242,
-              "text": "Детки, вы лишь мои тени (ага)"
+              "text": "Детки, вы лишь мои тени (ага)",
+              "effects": []
             },
             {
               "time": 101.882806,
-              "text": "Но не останетесь навеки (нет)"
+              "text": "Но не останетесь навеки (нет)",
+              "effects": []
             },
             {
               "time": 103.778537,
-              "text": "Да, я Freddy, bitch, I’m ready (ха-ха-ха)"
+              "text": "Да, я Freddy, bitch, I’m ready (ха-ха-ха)",
+              "effects": []
             },
             {
               "time": 105.252274,
-              "text": "Залезаю в свою Bentley (врум)"
+              "text": "Залезаю в свою Bentley (врум)",
+              "effects": []
             },
             {
               "time": 106.740306,
-              "text": "У меня есть знакомый thug"
+              "text": "У меня есть знакомый thug",
+              "effects": []
             },
             {
               "time": 108.406683,
-              "text": "Но он далеко не friendly (м-м)"
+              "text": "Но он далеко не friendly (м-м)",
+              "effects": []
             },
             {
               "time": 109.824785,
-              "text": "Не проводи параллели"
+              "text": "Не проводи параллели",
+              "effects": []
             },
             {
               "time": 111.019393,
-              "text": "Рэперы — дети, я типа R. Kelly"
+              "text": "Рэперы — дети, я типа R. Kelly",
+              "effects": []
             },
             {
               "time": 112.449756,
-              "text": "Жарю на гриле я филе форели"
+              "text": "Жарю на гриле я филе форели",
+              "effects": []
             },
             {
               "time": 113.993005,
-              "text": "У меня платье от Schiaparelli"
+              "text": "У меня платье от Schiaparelli",
+              "effects": []
             },
             {
               "time": 115.554403,
-              "text": "Все мои бывшие — крысы (давай)"
+              "text": "Все мои бывшие — крысы (давай)",
+              "effects": []
             },
             {
               "time": 116.602881,
-              "text": "Я ставила опыты, вы типа биомодели (ещё, ещё)"
+              "text": "Я ставила опыты, вы типа биомодели (ещё, ещё)",
+              "effects": []
             },
             {
               "time": 118.548473,
-              "text": "Я убиваю всегда своих братиков (ещё, ещё)"
+              "text": "Я убиваю всегда своих братиков (ещё, ещё)",
+              "effects": []
             },
             {
               "time": 120.132915,
-              "text": "Они зовут меня YNW Melly (а)"
+              "text": "Они зовут меня YNW Melly (а)",
+              "effects": []
             },
             {
               "time": 123.088944,
-              "text": ""
+              "text": "",
+              "effects": []
             }
           ]
         }
