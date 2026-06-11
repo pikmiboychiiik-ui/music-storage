@@ -687,9 +687,9 @@
               "text": "Bi-bi-bitch, I'm lux, never broke",
               "effects": [
                 {
-                  "id": "mood_shift",
-                  "name": "🎭 MOOD SHIFT",
-                  "timestamp": 1781200070528
+                  "id": "rotate_spin",
+                  "name": "🔄 SPIN",
+                  "timestamp": 1781200294759
                 }
               ]
             },
