@@ -680,22 +680,16 @@
             {
               "time": 60,
               "text": "",
-              "effects": [
-                {
-                  "id": "cinematic_sway",
-                  "name": "🎬 CINEMATIC SWAY",
-                  "timestamp": 1781203250830
-                }
-              ]
+              "effects": []
             },
             {
               "time": 68.504479,
               "text": "Bi-bi-bitch, I'm lux, never broke",
               "effects": [
                 {
-                  "id": "zoom_drop",
-                  "name": "🔍 ZOOM DROP",
-                  "timestamp": 1781203239570
+                  "id": "glitch_art",
+                  "name": "📺 GLITCH ART",
+                  "timestamp": 1781203592203
                 }
               ]
             },
