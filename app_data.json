@@ -716,7 +716,13 @@
             {
               "time": 76.567715,
               "text": "(Wait, 6arely, can we, like, bring the verse back real quick?)",
-              "effects": []
+              "effects": [
+                {
+                  "id": "neon_purple",
+                  "name": "🟣 PURPLE HAZE",
+                  "timestamp": 1781200204999
+                }
+              ]
             },
             {
               "time": 78.706275,
