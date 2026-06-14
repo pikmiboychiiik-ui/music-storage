@@ -61,6 +61,14 @@
       "genre": "Pop",
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/1781305213490.png",
       "releaseCount": 0
+    },
+    "1781471487268": {
+      "id": "1781471487268",
+      "name": "Дайте танк (!)",
+      "bio": "Название группы происходит от чит-кода giveusatank из игры Grand Theft Auto III, после ввода которого с неба падает танк.",
+      "genre": "Rock",
+      "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/1781471487268.png",
+      "releaseCount": 0
     }
   },
   "releases": [
