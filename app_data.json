@@ -1354,24 +1354,6 @@
         }
       ],
       "presaveLink": ""
-    },
-    {
-      "id": "1781555254357",
-      "artistId": "1780749777166",
-      "type": "ep",
-      "title": "ON TOP",
-      "date": "2024-08-23",
-      "genre": "Pop",
-      "accentColor": "#ffffff",
-      "tracks": [
-        {
-          "title": "ON TOP",
-          "mood": "energetic",
-          "url": null,
-          "lyrics": [],
-          "uploadStatus": "pending"
-        }
-      ]
     }
   ],
   "presaves": [
@@ -1399,6 +1381,20 @@
     }
   ],
   "uploadLogs": [
+    {
+      "id": 1781555324011,
+      "timestamp": "2026-06-15T20:28:44.011Z",
+      "type": "success",
+      "message": "Track \"ON TOP\" uploaded to GitHub",
+      "details": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/ON_TOP_1781555322512.mp3"
+    },
+    {
+      "id": 1781555319510,
+      "timestamp": "2026-06-15T20:28:39.510Z",
+      "type": "info",
+      "message": "Starting download for \"ON TOP\"",
+      "details": ""
+    },
     {
       "id": 1781555239681,
       "timestamp": "2026-06-15T20:27:19.681Z",
