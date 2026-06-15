@@ -68,7 +68,7 @@
       "bio": "Название группы происходит от чит-кода giveusatank из игры Grand Theft Auto III, после ввода которого с неба падает танк.",
       "genre": "Rock",
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/1781471487268.png",
-      "releaseCount": 0
+      "releaseCount": 1
     }
   },
   "releases": [
@@ -1289,6 +1289,24 @@
         }
       ],
       "presaveLink": ""
+    },
+    {
+      "id": "1781487444554",
+      "artistId": "1781471487268",
+      "type": "album",
+      "title": "Радио Пепел ",
+      "date": "2026-06-15",
+      "genre": "Hip Hop",
+      "coverUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/covers/1781487444554.png",
+      "accentColor": "#ffffff",
+      "tracks": [
+        {
+          "title": "прр",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1781487444554_0.mp3",
+          "mood": "aggressive",
+          "lyrics": []
+        }
+      ]
     }
   ],
   "presaves": [
