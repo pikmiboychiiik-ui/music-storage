@@ -89,7 +89,12 @@
             {
               "time": 0.479063,
               "text": "Пс-с, я вижу гномов",
-              "effects": []
+              "effects": [
+                {
+                  "id": "flash_white",
+                  "name": "💥 WHITE FLASH"
+                }
+              ]
             },
             {
               "time": 4.914268,
@@ -1313,6 +1318,18 @@
       "description": "",
       "coverUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/covers/1780749777166_MAYDAY.jpg",
       "createdAt": "2026-06-07T12:39:58.290Z"
+    }
+  ],
+  "uploadLogs": [
+    {
+      "id": 1781554847900,
+      "timestamp": "2026-06-15T20:20:47.900Z",
+      "trackTitle": "SO HOT",
+      "artistName": "МЭЙБИ БЭЙБИ",
+      "releaseTitle": "Web Download",
+      "status": "started",
+      "error": null,
+      "progress": 0
     }
   ]
 }
