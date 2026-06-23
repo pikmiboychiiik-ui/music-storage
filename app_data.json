@@ -76,7 +76,7 @@
       "bio": "Сценический псевдоним появился из-за того, что на школьных дискотеках дешёвая аппаратура всегда \"шумела\" (англ. noise)",
       "genre": "Rock",
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/1782225025376.png",
-      "releaseCount": 1
+      "releaseCount": 2
     }
   },
   "releases": [
@@ -1401,6 +1401,24 @@
           "title": "Спящая красавица",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1782235729736_0.mp3",
           "mood": "energetic",
+          "lyrics": []
+        }
+      ]
+    },
+    {
+      "id": "1782235737232",
+      "artistId": "1782225025376",
+      "type": "single",
+      "title": "Спящая красавица",
+      "date": "2026-05-07",
+      "genre": "Hip Hop",
+      "coverUrl": "",
+      "accentColor": "#ffffff",
+      "tracks": [
+        {
+          "title": "",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1782235737232_0.mp3",
+          "mood": "aggressive",
           "lyrics": []
         }
       ]
