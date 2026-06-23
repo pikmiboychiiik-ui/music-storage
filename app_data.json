@@ -1386,24 +1386,6 @@
           "lyrics": []
         }
       ]
-    },
-    {
-      "id": "1782235729736",
-      "artistId": "1782225025376",
-      "type": "single",
-      "title": "Спящая красавица",
-      "date": "2026-05-07",
-      "genre": "Hip Hop",
-      "coverUrl": "",
-      "accentColor": "#ffffff",
-      "tracks": [
-        {
-          "title": "Спящая красавица",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1782235729736_0.mp3",
-          "mood": "energetic",
-          "lyrics": []
-        }
-      ]
     }
   ],
   "presaves": [
