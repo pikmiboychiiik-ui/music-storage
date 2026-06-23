@@ -69,6 +69,14 @@
       "genre": "Rock",
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/1781471487268.png",
       "releaseCount": 1
+    },
+    "1782225025376": {
+      "id": "1782225025376",
+      "name": "Noise MC",
+      "bio": "Сценический псевдоним появился из-за того, что на школьных дискотеках дешёвая аппаратура всегда \"шумела\" (англ. noise)",
+      "genre": "Rock",
+      "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/1782225025376.png",
+      "releaseCount": 0
     }
   },
   "releases": [
