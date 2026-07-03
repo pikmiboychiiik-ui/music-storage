@@ -52,7 +52,7 @@
       "genre": "Pop",
       "photoUrl": "",
       "socialLinks": {},
-      "releaseCount": 0
+      "releaseCount": 1
     },
     "1781305213490": {
       "id": "1781305213490",
@@ -1412,6 +1412,24 @@
           "title": "Спящая красавица",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1782236263720_0.mp3",
           "mood": "aggressive",
+          "lyrics": []
+        }
+      ]
+    },
+    {
+      "id": "1783099456884",
+      "artistId": "1781217241483",
+      "type": "ep",
+      "title": "Fire Drill",
+      "date": "2020-06-26",
+      "genre": "Pop",
+      "coverUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/covers/1783099456884.png",
+      "accentColor": "#ffffff",
+      "tracks": [
+        {
+          "title": "Fire Drill",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783099456884_0.mp3",
+          "mood": "dreamy",
           "lyrics": []
         }
       ]
