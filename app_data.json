@@ -52,7 +52,7 @@
       "genre": "Pop",
       "photoUrl": "",
       "socialLinks": {},
-      "releaseCount": 1
+      "releaseCount": 2
     },
     "1781305213490": {
       "id": "1781305213490",
@@ -1429,6 +1429,126 @@
         {
           "title": "Fire Drill",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783099456884_0.mp3",
+          "mood": "dreamy",
+          "lyrics": []
+        }
+      ]
+    },
+    {
+      "id": "1783100382728",
+      "artistId": "1781217241483",
+      "type": "album",
+      "title": "HADES",
+      "date": "2026-03-27",
+      "genre": "Pop",
+      "coverUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/covers/1783100382728.png",
+      "accentColor": "#ffffff",
+      "tracks": [
+        {
+          "title": "GARBAGE",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_0.mp3",
+          "mood": "epic",
+          "lyrics": []
+        },
+        {
+          "title": "IS THIS A CULT?",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_1.mp3",
+          "mood": "dark",
+          "lyrics": []
+        },
+        {
+          "title": "POSSESSION",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_2.mp3",
+          "mood": "dreamy",
+          "lyrics": []
+        },
+        {
+          "title": "WHITE BOY WITH A GUN",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_3.mp3",
+          "mood": "dark",
+          "lyrics": []
+        },
+        {
+          "title": "DISNEY PRINCESS",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_4.mp3",
+          "mood": "dreamy",
+          "lyrics": []
+        },
+        {
+          "title": "GRUDGES",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_5.mp3",
+          "mood": "epic",
+          "lyrics": []
+        },
+        {
+          "title": "MONOPOLY MAN",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_6.mp3",
+          "mood": "energetic",
+          "lyrics": []
+        },
+        {
+          "title": "AVOIDANT",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_7.mp3",
+          "mood": "melancholic",
+          "lyrics": []
+        },
+        {
+          "title": "MONOLITH",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_8.mp3",
+          "mood": "melancholic",
+          "lyrics": []
+        },
+        {
+          "title": "WEIGHT WATCHERS",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_9.mp3",
+          "mood": "dark",
+          "lyrics": []
+        },
+        {
+          "title": "THE PLAGUE",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_10.mp3",
+          "mood": "dark",
+          "lyrics": []
+        },
+        {
+          "title": "BATSIT INTELLIGENCE",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_11.mp3",
+          "mood": "dreamy",
+          "lyrics": []
+        },
+        {
+          "title": "GUTTER",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_12.mp3",
+          "mood": "dark",
+          "lyrics": []
+        },
+        {
+          "title": "UNCANNY VALLEY",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_13.mp3",
+          "mood": "dark",
+          "lyrics": []
+        },
+        {
+          "title": "THE VATICAN",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_14.mp3",
+          "mood": "epic",
+          "lyrics": []
+        },
+        {
+          "title": "HELL'S FRONT PORCH",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_15.mp3",
+          "mood": "dreamy",
+          "lyrics": []
+        },
+        {
+          "title": "CHATROOM",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_16.mp3",
+          "mood": "calm",
+          "lyrics": []
+        },
+        {
+          "title": "THE LAST TWO PEOPLE ON EARTH",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_17.mp3",
           "mood": "dreamy",
           "lyrics": []
         }
