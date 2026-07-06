@@ -329,10 +329,24 @@
         {
           "title": "Забери меня ночью",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166_SHAWTY_5__________________.mp3",
-          "mood": "energetic",
+          "mood": "party",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {
+            "happy": 0.4,
+            "sad": 0.05,
+            "energetic": 0.9,
+            "calm": 0.05,
+            "party": 0.95,
+            "love": 0.15,
+            "dark": 0.35,
+            "acoustic": 0.02,
+            "electronic": 0.45,
+            "mellow": 0.05
+          },
+          "genre": "",
+          "subgenre": "",
+          "bpm": 0
         },
         {
           "title": "Где Твои Манеры",
