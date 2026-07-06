@@ -84,7 +84,7 @@
       "bio": "Стала известна в 2021 с вирусным треком «кис-кис». Выпустила мини-альбом «Валенсия». В 2022 записала песню «портреты» о потере дома.\n",
       "genre": "Punk",
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/1783361942751.png",
-      "releaseCount": 0
+      "releaseCount": 1
     }
   },
   "releases": [
@@ -1557,6 +1557,60 @@
         {
           "title": "THE LAST TWO PEOPLE ON EARTH",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_17.mp3",
+          "mood": "dreamy",
+          "lyrics": []
+        }
+      ]
+    },
+    {
+      "id": "1783362262934",
+      "artistId": "1783361942751",
+      "type": "album",
+      "title": "новый альбом про любовь",
+      "date": "2024-03-01",
+      "genre": "Pop",
+      "coverUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/covers/1783362262934.png",
+      "accentColor": "#ffffff",
+      "tracks": [
+        {
+          "title": "наколки",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783362262934_0.mp3",
+          "mood": "melancholic",
+          "lyrics": []
+        },
+        {
+          "title": "не я",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783362262934_1.mp3",
+          "mood": "melancholic",
+          "lyrics": []
+        },
+        {
+          "title": "первый скилл",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783362262934_2.mp3",
+          "mood": "melancholic",
+          "lyrics": []
+        },
+        {
+          "title": "мурашки",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783362262934_3.mp3",
+          "mood": "melancholic",
+          "lyrics": []
+        },
+        {
+          "title": "ток",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783362262934_4.mp3",
+          "mood": "melancholic",
+          "lyrics": []
+        },
+        {
+          "title": "лазить по стенам",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783362262934_5.mp3",
+          "mood": "dreamy",
+          "lyrics": []
+        },
+        {
+          "title": "кимоно (2021)",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783362262934_6.mp3",
           "mood": "dreamy",
           "lyrics": []
         }
