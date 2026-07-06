@@ -266,7 +266,21 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {
+            "happy": 0.3,
+            "sad": 0.1,
+            "energetic": 0.8,
+            "calm": 0.15,
+            "party": 0.45,
+            "love": 0.05,
+            "dark": 0.4,
+            "acoustic": 0.05,
+            "electronic": 0.35,
+            "mellow": 0.1
+          },
+          "genre": "",
+          "subgenre": "",
+          "bpm": 0
         },
         {
           "title": "Ice Baby",
