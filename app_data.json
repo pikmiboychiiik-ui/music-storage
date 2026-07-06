@@ -222,7 +222,21 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {
+            "happy": 0.3,
+            "sad": 0.05,
+            "energetic": 0.9,
+            "calm": 0.05,
+            "party": 0.4,
+            "love": 0.05,
+            "dark": 0.55,
+            "acoustic": 0.05,
+            "electronic": 0.35,
+            "mellow": 0.05
+          },
+          "genre": "",
+          "subgenre": "",
+          "bpm": 0
         },
         {
           "title": "DURAGA",
