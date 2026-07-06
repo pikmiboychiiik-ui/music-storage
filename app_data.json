@@ -244,7 +244,21 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {
+            "happy": 0.8,
+            "sad": 0.05,
+            "energetic": 0.95,
+            "calm": 0.05,
+            "party": 0.7,
+            "love": 0.1,
+            "dark": 0.45,
+            "acoustic": 0.02,
+            "electronic": 0.4,
+            "mellow": 0.05
+          },
+          "genre": "",
+          "subgenre": "",
+          "bpm": 0
         },
         {
           "title": "Принцесса Диана",
