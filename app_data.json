@@ -77,6 +77,14 @@
       "genre": "Rock",
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/1782225025376.png",
       "releaseCount": 4
+    },
+    "1783361942751": {
+      "id": "1783361942751",
+      "name": "Zhanulka",
+      "bio": "Стала известна в 2021 с вирусным треком «кис-кис». Выпустила мини-альбом «Валенсия». В 2022 записала песню «портреты» о потере дома.\n",
+      "genre": "Punk",
+      "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/1783361942751.png",
+      "releaseCount": 0
     }
   },
   "releases": [
