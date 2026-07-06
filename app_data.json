@@ -1965,9 +1965,23 @@
         {
           "title": "кимоно (2021)",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783362262934_6.mp3",
-          "mood": "dreamy",
+          "mood": "love",
           "lyrics": [],
-          "moodData": {}
+          "moodData": {
+            "happy": 0.7,
+            "sad": 0.2,
+            "energetic": 0.55,
+            "calm": 0.5,
+            "party": 0.15,
+            "love": 0.85,
+            "dark": 0.2,
+            "acoustic": 0.45,
+            "electronic": 0.15,
+            "mellow": 0.65
+          },
+          "genre": "",
+          "subgenre": "",
+          "bpm": 0
         }
       ]
     }
