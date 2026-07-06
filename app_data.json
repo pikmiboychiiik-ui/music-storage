@@ -1902,9 +1902,23 @@
         {
           "title": "мурашки",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783362262934_3.mp3",
-          "mood": "melancholic",
+          "mood": "happy",
           "lyrics": [],
-          "moodData": {}
+          "moodData": {
+            "happy": 0.85,
+            "sad": 0.1,
+            "energetic": 0.65,
+            "calm": 0.3,
+            "party": 0.4,
+            "love": 0.8,
+            "dark": 0.05,
+            "acoustic": 0.6,
+            "electronic": 0.1,
+            "mellow": 0.6
+          },
+          "genre": "",
+          "subgenre": "",
+          "bpm": 0
         },
         {
           "title": "ток",
