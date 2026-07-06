@@ -183,10 +183,24 @@
         {
           "title": "Клуб",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1780749777166______0_____.mp3",
-          "mood": "energetic",
+          "mood": "party",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {
+            "happy": 0.35,
+            "sad": 0.25,
+            "energetic": 0.85,
+            "calm": 0.05,
+            "party": 0.9,
+            "love": 0.05,
+            "dark": 0.3,
+            "acoustic": 0.05,
+            "electronic": 0.5,
+            "mellow": 0.1
+          },
+          "genre": "",
+          "subgenre": "",
+          "bpm": 0
         }
       ],
       "createdAt": "2026-06-06T18:53:29.943Z",
