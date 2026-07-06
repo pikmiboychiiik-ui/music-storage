@@ -1860,9 +1860,23 @@
         {
           "title": "не я",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783362262934_1.mp3",
-          "mood": "melancholic",
+          "mood": "sad",
           "lyrics": [],
-          "moodData": {}
+          "moodData": {
+            "happy": 0.1,
+            "sad": 0.8,
+            "energetic": 0.6,
+            "calm": 0.1,
+            "party": 0.1,
+            "love": 0.05,
+            "dark": 0.75,
+            "acoustic": 0.15,
+            "electronic": 0.2,
+            "mellow": 0.05
+          },
+          "genre": "",
+          "subgenre": "",
+          "bpm": 0
         },
         {
           "title": "первый скилл",
