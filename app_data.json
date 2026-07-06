@@ -420,7 +420,21 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {
+            "happy": 0.35,
+            "sad": 0.05,
+            "energetic": 0.8,
+            "calm": 0.1,
+            "party": 0.55,
+            "love": 0.1,
+            "dark": 0.3,
+            "acoustic": 0.05,
+            "electronic": 0.35,
+            "mellow": 0.1
+          },
+          "genre": "",
+          "subgenre": "",
+          "bpm": 0
         },
         {
           "title": "GOLDA",
