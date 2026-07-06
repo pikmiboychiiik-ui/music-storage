@@ -376,7 +376,21 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {
+            "happy": 0.15,
+            "sad": 0.05,
+            "energetic": 0.9,
+            "calm": 0.05,
+            "party": 0.25,
+            "love": 0.05,
+            "dark": 0.65,
+            "acoustic": 0.05,
+            "electronic": 0.4,
+            "mellow": 0.05
+          },
+          "genre": "",
+          "subgenre": "",
+          "bpm": 0
         },
         {
           "title": "Shimmy Shimmy Ya!",
