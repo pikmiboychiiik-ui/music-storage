@@ -442,7 +442,21 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {
+            "happy": 0.35,
+            "sad": 0.05,
+            "energetic": 0.85,
+            "calm": 0.05,
+            "party": 0.55,
+            "love": 0.05,
+            "dark": 0.4,
+            "acoustic": 0.05,
+            "electronic": 0.35,
+            "mellow": 0.05
+          },
+          "genre": "",
+          "subgenre": "",
+          "bpm": 0
         }
       ],
       "presaveLink": "m0-music://presave/1780749777166/1780777097945",
