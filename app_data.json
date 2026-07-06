@@ -1839,9 +1839,23 @@
         {
           "title": "наколки",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783362262934_0.mp3",
-          "mood": "melancholic",
+          "mood": "energetic",
           "lyrics": [],
-          "moodData": {}
+          "moodData": {
+            "happy": 0.3,
+            "sad": 0.6,
+            "energetic": 0.7,
+            "calm": 0.15,
+            "party": 0.3,
+            "love": 0.1,
+            "dark": 0.35,
+            "acoustic": 0.1,
+            "electronic": 0.25,
+            "mellow": 0.15
+          },
+          "genre": "",
+          "subgenre": "",
+          "bpm": 0
         },
         {
           "title": "не я",
