@@ -1923,9 +1923,23 @@
         {
           "title": "ток",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783362262934_4.mp3",
-          "mood": "melancholic",
+          "mood": "sad",
           "lyrics": [],
-          "moodData": {}
+          "moodData": {
+            "happy": 0.2,
+            "sad": 0.7,
+            "energetic": 0.6,
+            "calm": 0.15,
+            "party": 0.15,
+            "love": 0.05,
+            "dark": 0.65,
+            "acoustic": 0.3,
+            "electronic": 0.2,
+            "mellow": 0.1
+          },
+          "genre": "",
+          "subgenre": "",
+          "bpm": 0
         },
         {
           "title": "лазить по стенам",
