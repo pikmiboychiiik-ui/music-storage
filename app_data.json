@@ -7,7 +7,9 @@
       "genre": "Hip Hop",
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/1781305213499.png",
       "releaseCount": 11,
-      "createdAt": "2026-06-06T12:42:57.166Z"
+      "createdAt": "2026-06-06T12:42:57.166Z",
+      "hasWarning": false,
+      "warningText": ""
     },
     "1780862872741": {
       "id": "1780862872741",
@@ -16,7 +18,9 @@
       "genre": "Indie Pop",
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/TV_Girl.png",
       "releaseCount": 2,
-      "createdAt": "2026-06-07T20:07:52.741Z"
+      "createdAt": "2026-06-07T20:07:52.741Z",
+      "hasWarning": false,
+      "warningText": ""
     },
     "1780984005683": {
       "id": "1780984005683",
@@ -25,7 +29,9 @@
       "genre": "Indie Pop",
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/ray_.png",
       "releaseCount": 1,
-      "createdAt": "2026-06-09T05:46:45.683Z"
+      "createdAt": "2026-06-09T05:46:45.683Z",
+      "hasWarning": false,
+      "warningText": ""
     },
     "1781023782687": {
       "id": "1781023782687",
@@ -34,7 +40,9 @@
       "genre": "Hyperpop",
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/6arelyhuman.png",
       "releaseCount": 1,
-      "createdAt": "2026-06-09T16:49:42.687Z"
+      "createdAt": "2026-06-09T16:49:42.687Z",
+      "hasWarning": false,
+      "warningText": ""
     },
     "1781215676961": {
       "id": "1781215676961",
@@ -43,7 +51,9 @@
       "genre": "Experimental",
       "photoUrl": "",
       "socialLinks": {},
-      "releaseCount": 0
+      "releaseCount": 0,
+      "hasWarning": false,
+      "warningText": ""
     },
     "1781217241483": {
       "id": "1781217241483",
@@ -52,7 +62,9 @@
       "genre": "Pop",
       "photoUrl": "",
       "socialLinks": {},
-      "releaseCount": 2
+      "releaseCount": 2,
+      "hasWarning": false,
+      "warningText": ""
     },
     "1781305213490": {
       "id": "1781305213490",
@@ -60,7 +72,9 @@
       "bio": "Росийский инди-поп и инди-рок исполнитель, сонграйтер и блогер\n",
       "genre": "Pop",
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/1781305213490.png",
-      "releaseCount": 0
+      "releaseCount": 0,
+      "hasWarning": false,
+      "warningText": ""
     },
     "1781471487268": {
       "id": "1781471487268",
@@ -68,7 +82,9 @@
       "bio": "Название группы происходит от чит-кода giveusatank из игры Grand Theft Auto III, после ввода которого с неба падает танк.",
       "genre": "Rock",
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/1781471487268.png",
-      "releaseCount": 1
+      "releaseCount": 1,
+      "hasWarning": false,
+      "warningText": ""
     },
     "1782225025376": {
       "id": "1782225025376",
@@ -76,7 +92,9 @@
       "bio": "Сценический псевдоним появился из-за того, что на школьных дискотеках дешёвая аппаратура всегда \"шумела\" (англ. noise)",
       "genre": "Rock",
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/1782225025376.png",
-      "releaseCount": 4
+      "releaseCount": 4,
+      "hasWarning": true,
+      "warningText": "Исполнитель признан иноагентом на территории РФ. Но мы, как и он в песне «Всё как у людей», считаем, что «жёсткая рука» не повод отказывать вам в доступе к музыке . Все треки Noize MC доступны в нашем приложении."
     },
     "1783361942751": {
       "id": "1783361942751",
@@ -84,7 +102,9 @@
       "bio": "Стала известна в 2021 с вирусным треком «кис-кис». Выпустила мини-альбом «Валенсия». В 2022 записала песню «портреты» о потере дома.\n",
       "genre": "Punk",
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/1783361942751.png",
-      "releaseCount": 1
+      "releaseCount": 1,
+      "hasWarning": false,
+      "warningText": ""
     }
   },
   "releases": [
@@ -153,7 +173,9 @@
           },
           "genre": "",
           "subgenre": "",
-          "bpm": 0
+          "bpm": 0,
+          "hasWarning": false,
+          "warningText": ""
         }
       ],
       "createdAt": "2026-06-06T15:40:22.806Z",
@@ -200,7 +222,9 @@
           },
           "genre": "",
           "subgenre": "",
-          "bpm": 0
+          "bpm": 0,
+          "hasWarning": false,
+          "warningText": ""
         }
       ],
       "createdAt": "2026-06-06T18:53:29.943Z",
@@ -236,7 +260,9 @@
           },
           "genre": "",
           "subgenre": "",
-          "bpm": 0
+          "bpm": 0,
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "DURAGA",
@@ -258,7 +284,9 @@
           },
           "genre": "",
           "subgenre": "",
-          "bpm": 0
+          "bpm": 0,
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Принцесса Диана",
@@ -280,7 +308,9 @@
           },
           "genre": "",
           "subgenre": "",
-          "bpm": 0
+          "bpm": 0,
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Ice Baby",
@@ -302,7 +332,9 @@
           },
           "genre": "",
           "subgenre": "",
-          "bpm": 0
+          "bpm": 0,
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "ЗАЙКА",
@@ -324,7 +356,9 @@
           },
           "genre": "",
           "subgenre": "",
-          "bpm": 0
+          "bpm": 0,
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Забери меня ночью",
@@ -346,7 +380,9 @@
           },
           "genre": "",
           "subgenre": "",
-          "bpm": 0
+          "bpm": 0,
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Где Твои Манеры",
@@ -368,7 +404,9 @@
           },
           "genre": "",
           "subgenre": "",
-          "bpm": 0
+          "bpm": 0,
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "BABY vs. WORLD",
@@ -390,7 +428,9 @@
           },
           "genre": "",
           "subgenre": "",
-          "bpm": 0
+          "bpm": 0,
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Shimmy Shimmy Ya!",
@@ -412,7 +452,9 @@
           },
           "genre": "",
           "subgenre": "",
-          "bpm": 0
+          "bpm": 0,
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Вивальди",
@@ -434,7 +476,9 @@
           },
           "genre": "",
           "subgenre": "",
-          "bpm": 0
+          "bpm": 0,
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "GOLDA",
@@ -456,7 +500,9 @@
           },
           "genre": "",
           "subgenre": "",
-          "bpm": 0
+          "bpm": 0,
+          "hasWarning": false,
+          "warningText": ""
         }
       ],
       "presaveLink": "m0-music://presave/1780749777166/1780777097945",
@@ -478,7 +524,9 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Oh My God!",
@@ -486,7 +534,9 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Вуаля",
@@ -494,7 +544,9 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Exactly",
@@ -502,7 +554,9 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Лова Лова",
@@ -510,7 +564,9 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "TRY ME",
@@ -518,7 +574,9 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Пухлые Губы",
@@ -526,7 +584,9 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Не Беспокоюсь",
@@ -534,7 +594,9 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Попкорн",
@@ -542,7 +604,9 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Клуб",
@@ -550,7 +614,9 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Onlyfans",
@@ -558,7 +624,9 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Милли",
@@ -566,7 +634,9 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Beamer, Benz or Bentley",
@@ -574,7 +644,9 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Baby Flow",
@@ -582,7 +654,9 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         }
       ],
       "createdAt": "2026-06-07T12:53:46.306Z",
@@ -604,7 +678,9 @@
           "mood": "dreamy",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Song About Me",
@@ -612,7 +688,9 @@
           "mood": "dreamy",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Cigarettes out the Window",
@@ -620,7 +698,9 @@
           "mood": "melancholic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Till You Tell Me to Leave",
@@ -628,7 +708,9 @@
           "mood": "melancholic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Not Allowed",
@@ -636,7 +718,9 @@
           "mood": "melancholic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "(Do The) Act Like You Never Met Me",
@@ -644,7 +728,9 @@
           "mood": "dreamy",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Safeword",
@@ -652,7 +738,9 @@
           "mood": "calm",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "For You",
@@ -660,7 +748,9 @@
           "mood": "dreamy",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Loving Machine",
@@ -668,7 +758,9 @@
           "mood": "melancholic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Heaven Is a Bedroom",
@@ -676,7 +768,9 @@
           "mood": "dreamy",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         }
       ],
       "presaveLink": "",
@@ -699,7 +793,9 @@
           "mood": "dreamy",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Birds Don't Sing",
@@ -707,7 +803,9 @@
           "mood": "dreamy",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Louise",
@@ -715,7 +813,9 @@
           "mood": "dreamy",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Hate yourself",
@@ -723,7 +823,9 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "The Getaway",
@@ -731,7 +833,9 @@
           "mood": "dreamy",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Talk to Strangers",
@@ -739,7 +843,9 @@
           "mood": "melancholic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "The Blonde",
@@ -747,7 +853,9 @@
           "mood": "melancholic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Daughter of a Cop",
@@ -755,7 +863,9 @@
           "mood": "dreamy",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Lovers Rock",
@@ -763,7 +873,9 @@
           "mood": "dreamy",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Her and Her Friend",
@@ -771,7 +883,9 @@
           "mood": "calm",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Come When You Call",
@@ -779,7 +893,9 @@
           "mood": "dreamy",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Anjela",
@@ -787,7 +903,9 @@
           "mood": "calm",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         }
       ],
       "presaveLink": "",
@@ -810,7 +928,9 @@
           "mood": "dark",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Поцелуй на счастье",
@@ -818,7 +938,9 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Пол человека",
@@ -826,7 +948,9 @@
           "mood": "dark",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Без повода",
@@ -834,7 +958,9 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Ломай потолок",
@@ -842,7 +968,9 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Обезбол",
@@ -850,7 +978,9 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Удары-поцелуи",
@@ -858,7 +988,9 @@
           "mood": "dark",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "Молодость",
@@ -866,7 +998,9 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "C6H12O6 (глюкоза)",
@@ -874,7 +1008,9 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         }
       ],
       "presaveLink": "",
@@ -1239,7 +1375,9 @@
             }
           ],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         }
       ],
       "presaveLink": "",
@@ -1608,7 +1746,9 @@
             }
           ],
           "uploadStatus": "uploaded",
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         }
       ],
       "presaveLink": ""
@@ -1628,14 +1768,18 @@
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1781555580456_0.mp3",
           "mood": "energetic",
           "lyrics": [],
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "SO HOT",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1781555580456_1.mp3",
           "mood": "energetic",
           "lyrics": [],
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         }
       ]
     },
@@ -1665,7 +1809,9 @@
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1782236263720_0.mp3",
           "mood": "aggressive",
           "lyrics": [],
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         }
       ]
     },
@@ -1684,7 +1830,9 @@
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783099456884_0.mp3",
           "mood": "dreamy",
           "lyrics": [],
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         }
       ]
     },
@@ -1703,126 +1851,162 @@
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_0.mp3",
           "mood": "epic",
           "lyrics": [],
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "IS THIS A CULT?",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_1.mp3",
           "mood": "dark",
           "lyrics": [],
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "POSSESSION",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_2.mp3",
           "mood": "dreamy",
           "lyrics": [],
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "WHITE BOY WITH A GUN",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_3.mp3",
           "mood": "dark",
           "lyrics": [],
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "DISNEY PRINCESS",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_4.mp3",
           "mood": "dreamy",
           "lyrics": [],
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "GRUDGES",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_5.mp3",
           "mood": "epic",
           "lyrics": [],
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "MONOPOLY MAN",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_6.mp3",
           "mood": "energetic",
           "lyrics": [],
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "AVOIDANT",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_7.mp3",
           "mood": "melancholic",
           "lyrics": [],
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "MONOLITH",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_8.mp3",
           "mood": "melancholic",
           "lyrics": [],
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "WEIGHT WATCHERS",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_9.mp3",
           "mood": "dark",
           "lyrics": [],
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "THE PLAGUE",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_10.mp3",
           "mood": "dark",
           "lyrics": [],
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "BATSIT INTELLIGENCE",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_11.mp3",
           "mood": "dreamy",
           "lyrics": [],
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "GUTTER",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_12.mp3",
           "mood": "dark",
           "lyrics": [],
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "UNCANNY VALLEY",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_13.mp3",
           "mood": "dark",
           "lyrics": [],
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "THE VATICAN",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_14.mp3",
           "mood": "epic",
           "lyrics": [],
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "HELL'S FRONT PORCH",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_15.mp3",
           "mood": "dreamy",
           "lyrics": [],
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "CHATROOM",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_16.mp3",
           "mood": "calm",
           "lyrics": [],
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "THE LAST TWO PEOPLE ON EARTH",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_17.mp3",
           "mood": "dreamy",
           "lyrics": [],
-          "moodData": {}
+          "moodData": {},
+          "hasWarning": false,
+          "warningText": ""
         }
       ]
     },
@@ -1855,7 +2039,9 @@
           },
           "genre": "",
           "subgenre": "",
-          "bpm": 0
+          "bpm": 0,
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "не я",
@@ -1876,7 +2062,9 @@
           },
           "genre": "",
           "subgenre": "",
-          "bpm": 0
+          "bpm": 0,
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "первый скилл",
@@ -1897,7 +2085,9 @@
           },
           "genre": "",
           "subgenre": "",
-          "bpm": 0
+          "bpm": 0,
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "мурашки",
@@ -1918,7 +2108,9 @@
           },
           "genre": "",
           "subgenre": "",
-          "bpm": 0
+          "bpm": 0,
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "ток",
@@ -1939,7 +2131,9 @@
           },
           "genre": "",
           "subgenre": "",
-          "bpm": 0
+          "bpm": 0,
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "лазить по стенам",
@@ -1960,7 +2154,9 @@
           },
           "genre": "",
           "subgenre": "",
-          "bpm": 0
+          "bpm": 0,
+          "hasWarning": false,
+          "warningText": ""
         },
         {
           "title": "кимоно (2021)",
@@ -1981,7 +2177,9 @@
           },
           "genre": "",
           "subgenre": "",
-          "bpm": 0
+          "bpm": 0,
+          "hasWarning": false,
+          "warningText": ""
         }
       ]
     }
