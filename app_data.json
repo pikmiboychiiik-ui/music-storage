@@ -92,7 +92,7 @@
       "bio": "Сценический псевдоним появился из-за того, что на школьных дискотеках дешёвая аппаратура всегда \"шумела\" (англ. noise)",
       "genre": "Rock",
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/1782225025376.png",
-      "releaseCount": 5,
+      "releaseCount": 6,
       "hasWarning": true,
       "warningText": "Исполнитель признан иноагентом на территории РФ. Но мы, как и он в песне «Всё как у людей», считаем, что «жёсткая рука» не повод отказывать вам в доступе к музыке . Все треки Noize MC доступны в нашем приложении."
     },
@@ -2180,6 +2180,138 @@
           "bpm": 0,
           "hasWarning": false,
           "warningText": ""
+        }
+      ]
+    },
+    {
+      "id": "1783533279137",
+      "artistId": "1782225025376",
+      "type": "album",
+      "title": "The Greatest Hits Vol. 1",
+      "date": "2008-06-17",
+      "genre": "Hip Hop",
+      "coverUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/covers/1783533279137.png",
+      "accentColor": "#ffffff",
+      "tracks": [
+        {
+          "title": "Песня для радио",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783533279137_0.mp3",
+          "mood": "aggressive",
+          "lyrics": []
+        },
+        {
+          "title": "За закрытой дверью",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783533279137_1.mp3",
+          "mood": "dreamy",
+          "lyrics": []
+        },
+        {
+          "title": "Из окна",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783533279137_2.mp3",
+          "mood": "aggressive",
+          "lyrics": []
+        },
+        {
+          "title": "Москва — не резиновая",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783533279137_3.mp3",
+          "mood": "dark",
+          "lyrics": []
+        },
+        {
+          "title": "Кантемировская",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783533279137_4.mp3",
+          "mood": "dark",
+          "lyrics": []
+        },
+        {
+          "title": "Жизнь без наркотиков",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783533279137_5.mp3",
+          "mood": "trippy",
+          "lyrics": []
+        },
+        {
+          "title": "На районе",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783533279137_6.mp3",
+          "mood": "energetic",
+          "lyrics": []
+        },
+        {
+          "title": "На работе.",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783533279137_7.mp3",
+          "mood": "dark",
+          "lyrics": []
+        },
+        {
+          "title": "Кури бамбук!",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783533279137_8.mp3",
+          "mood": "aggressive",
+          "lyrics": []
+        },
+        {
+          "title": "Палево!",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783533279137_9.mp3",
+          "mood": "energetic",
+          "lyrics": []
+        },
+        {
+          "title": "Блатняк",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783533279137_10.mp3",
+          "mood": "dark",
+          "lyrics": []
+        },
+        {
+          "title": "5П",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783533279137_11.mp3",
+          "mood": "aggressive",
+          "lyrics": []
+        },
+        {
+          "title": "Девочка-скинхед",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783533279137_12.mp3",
+          "mood": "dark",
+          "lyrics": []
+        },
+        {
+          "title": "Наше движение",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783533279137_13.mp3",
+          "mood": "epic",
+          "lyrics": []
+        },
+        {
+          "title": "Аренби!!!",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783533279137_14.mp3",
+          "mood": "trippy",
+          "lyrics": []
+        },
+        {
+          "title": "Поднимите руки",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783533279137_15.mp3",
+          "mood": "dark",
+          "lyrics": []
+        },
+        {
+          "title": "Моё море",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783533279137_16.mp3",
+          "mood": "melancholic",
+          "lyrics": []
+        },
+        {
+          "title": "Выдыхай",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783533279137_17.mp3",
+          "mood": "melancholic",
+          "lyrics": []
+        },
+        {
+          "title": "3П (Правдивая Песня)",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783533279137_18.mp3",
+          "mood": "dark",
+          "lyrics": []
+        },
+        {
+          "title": "Мы всего добились сами",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783533279137_19.mp3",
+          "mood": "aggressive",
+          "lyrics": []
         }
       ]
     }
