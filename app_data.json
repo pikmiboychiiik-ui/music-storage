@@ -72,7 +72,7 @@
       "bio": "Росийский инди-поп и инди-рок исполнитель, сонграйтер и блогер\n",
       "genre": "Pop",
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/1781305213490.png",
-      "releaseCount": 1,
+      "releaseCount": 2,
       "hasWarning": false,
       "warningText": ""
     },
@@ -2329,6 +2329,24 @@
           "title": "мокну под дождём",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1784495000208_0.mp3",
           "mood": "melancholic",
+          "lyrics": []
+        }
+      ]
+    },
+    {
+      "id": "1784495141690",
+      "artistId": "1781305213490",
+      "type": "single",
+      "title": "зима с тобой - весна",
+      "date": "2022-12-23",
+      "genre": "Pop",
+      "coverUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/covers/1784495141690.png",
+      "accentColor": "#ffffff",
+      "tracks": [
+        {
+          "title": "зима с тобой - весна",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1784495141690_0.mp3",
+          "mood": "dreamy",
           "lyrics": []
         }
       ]
