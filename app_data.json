@@ -72,7 +72,7 @@
       "bio": "Росийский инди-поп и инди-рок исполнитель, сонграйтер и блогер\n",
       "genre": "Pop",
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/1781305213490.png",
-      "releaseCount": 0,
+      "releaseCount": 1,
       "hasWarning": false,
       "warningText": ""
     },
@@ -2311,6 +2311,24 @@
           "title": "Мы всего добились сами",
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783533279137_19.mp3",
           "mood": "aggressive",
+          "lyrics": []
+        }
+      ]
+    },
+    {
+      "id": "1784495000208",
+      "artistId": "1781305213490",
+      "type": "single",
+      "title": "мокну под дождём",
+      "date": "2021-11-07",
+      "genre": "Pop",
+      "coverUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/covers/1784495000208.png",
+      "accentColor": "#ffffff",
+      "tracks": [
+        {
+          "title": "мокну под дождём",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1784495000208_0.mp3",
+          "mood": "melancholic",
           "lyrics": []
         }
       ]
