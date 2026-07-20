@@ -72,7 +72,7 @@
       "bio": "Росийский инди-поп и инди-рок исполнитель, сонграйтер и блогер\n",
       "genre": "Pop",
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/1781305213490.png",
-      "releaseCount": 2,
+      "releaseCount": 3,
       "hasWarning": false,
       "warningText": ""
     },
@@ -3528,6 +3528,117 @@
           "id": "1784495141690_0"
         }
       ]
+    },
+    {
+      "id": "1784574753820",
+      "artistId": "1781305213490",
+      "type": "ep",
+      "title": "любовь пройдёт нескоро",
+      "date": "2023-10-06",
+      "genre": "Pop",
+      "coverUrl": "",
+      "accentColor": "#ffffff",
+      "tracks": [
+        {
+          "id": "1784574753820_1",
+          "title": "любовь пройдёт не скоро (speed up)",
+          "url": "",
+          "mood": "calm",
+          "genre": "Pop",
+          "subgenre": "",
+          "bpm": 0,
+          "moodData": {
+            "happy": 0.3,
+            "sad": 0.3,
+            "energetic": 0.3,
+            "calm": 0.3,
+            "party": 0.3,
+            "love": 0.3,
+            "dark": 0.3,
+            "acoustic": 0.3,
+            "electronic": 0.3,
+            "mellow": 0.3
+          },
+          "lyrics": [],
+          "hasWarning": false,
+          "warningText": ""
+        },
+        {
+          "id": "1784574753820_0",
+          "title": "любовь пройдёт не скоро",
+          "url": "",
+          "mood": "calm",
+          "genre": "Pop",
+          "subgenre": "",
+          "bpm": 0,
+          "moodData": {
+            "happy": 0.3,
+            "sad": 0.3,
+            "energetic": 0.3,
+            "calm": 0.3,
+            "party": 0.3,
+            "love": 0.3,
+            "dark": 0.3,
+            "acoustic": 0.3,
+            "electronic": 0.3,
+            "mellow": 0.3
+          },
+          "lyrics": [],
+          "hasWarning": false,
+          "warningText": ""
+        },
+        {
+          "id": "1784574753820_3",
+          "title": "твоя любовь пройдёт не скоро (speed up)",
+          "url": "",
+          "mood": "calm",
+          "genre": "Pop",
+          "subgenre": "",
+          "bpm": 0,
+          "moodData": {
+            "happy": 0.3,
+            "sad": 0.3,
+            "energetic": 0.3,
+            "calm": 0.3,
+            "party": 0.3,
+            "love": 0.3,
+            "dark": 0.3,
+            "acoustic": 0.3,
+            "electronic": 0.3,
+            "mellow": 0.3
+          },
+          "lyrics": [],
+          "hasWarning": false,
+          "warningText": ""
+        },
+        {
+          "id": "1784574753820_2",
+          "title": "твоя любовь пройдёт не скоро",
+          "url": "",
+          "mood": "calm",
+          "genre": "Pop",
+          "subgenre": "",
+          "bpm": 0,
+          "moodData": {
+            "happy": 0.3,
+            "sad": 0.3,
+            "energetic": 0.3,
+            "calm": 0.3,
+            "party": 0.3,
+            "love": 0.3,
+            "dark": 0.3,
+            "acoustic": 0.3,
+            "electronic": 0.3,
+            "mellow": 0.3
+          },
+          "lyrics": [],
+          "hasWarning": false,
+          "warningText": ""
+        }
+      ],
+      "presaveLink": "",
+      "presaveDate": "",
+      "createdAt": "2026-07-20T19:12:41.638Z"
     }
   ],
   "presaves": [
