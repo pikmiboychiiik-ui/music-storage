@@ -3638,16 +3638,16 @@
     }
   ],
   "appUpdate": {
-    "version": "1.0.46",
-    "versionCode": 5,
+    "version": "1.0.47",
+    "versionCode": 1,
     "apkUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/app-release.apk",
-    "releaseNotes": "bug fixxx",
+    "releaseNotes": "Downloading now starts automatically — no more waiting, the update will start immediately after confirmation\n\nAutomatic permission check — if the app needs access to install, we will show the settings screen and continue the update after enabling it\n\nFile integrity check — the downloaded APK is checked before installation to avoid \"package corrupted\" errors\n\nSmart caching — if the update file is already downloaded, the app will reuse it, saving traffic and time\n\nUp-to-date version information — information about new versions is now loaded without delays\n\nStable installer launch — the system installer opens correctly even on slow devices",
     "forceUpdate": true,
     "isBeta": false,
-    "publishedAt": "2026-07-20T14:17:34.629Z",
-    "downloads": 10,
+    "publishedAt": "2026-07-20T19:21:33.231Z",
+    "downloads": 11,
     "fileSize": "13.10 MB",
-    "checksum": "sha256-o63e85px"
+    "checksum": "sha256-93xypdgy"
   },
   "collections": [],
   "likes": {
