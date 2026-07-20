@@ -547,7 +547,18 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.62505062522125,
+            "sad": 0.39778912921479564,
+            "energetic": 0.6870451676716318,
+            "calm": 0.3075138010661524,
+            "party": 0.4579191550669829,
+            "love": 0.5197144530082897,
+            "dark": 0.35024289611920517,
+            "acoustic": 0.4267977123756508,
+            "electronic": 0.5943760190916123,
+            "mellow": 0.5466645397954512
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780836826306_0"
@@ -558,7 +569,18 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.3853558263459073,
+            "sad": 0.47473133638020615,
+            "energetic": 0.30518012763477065,
+            "calm": 0.4643920870900837,
+            "party": 0.4125796366311972,
+            "love": 0.5947731171381868,
+            "dark": 0.432019859560968,
+            "acoustic": 0.3243278757295558,
+            "electronic": 0.5947723862806895,
+            "mellow": 0.5261061257913314
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780836826306_1"
@@ -569,7 +591,18 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.34945522911804056,
+            "sad": 0.37604592400998815,
+            "energetic": 0.6081315833031928,
+            "calm": 0.3239381538289521,
+            "party": 0.6181778187596494,
+            "love": 0.308698521134421,
+            "dark": 0.6087229452289472,
+            "acoustic": 0.6908462692291334,
+            "electronic": 0.4036794227055722,
+            "mellow": 0.3958236245181643
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780836826306_2"
@@ -580,7 +613,18 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.5161506889640501,
+            "sad": 0.4294469322489631,
+            "energetic": 0.3998290252643193,
+            "calm": 0.6530092498333876,
+            "party": 0.3309998188765984,
+            "love": 0.6404605075912131,
+            "dark": 0.6785058445888161,
+            "acoustic": 0.3942709021240882,
+            "electronic": 0.4522408947860909,
+            "mellow": 0.6748877633448385
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780836826306_3"
@@ -591,7 +635,18 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.6121338737649299,
+            "sad": 0.6353435990803256,
+            "energetic": 0.43473726001192425,
+            "calm": 0.41779139791758163,
+            "party": 0.5097558172323121,
+            "love": 0.36268816204066723,
+            "dark": 0.586352058385667,
+            "acoustic": 0.4743936720425822,
+            "electronic": 0.49505833321707504,
+            "mellow": 0.5191281078408071
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780836826306_4"
@@ -602,7 +657,18 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.48891546530637586,
+            "sad": 0.4329409911565866,
+            "energetic": 0.4238489401858184,
+            "calm": 0.35747799768192656,
+            "party": 0.4155439591129986,
+            "love": 0.6939127722616782,
+            "dark": 0.3407253042505208,
+            "acoustic": 0.5653641902611919,
+            "electronic": 0.6615744994401663,
+            "mellow": 0.3540089091207627
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780836826306_5"
@@ -613,7 +679,18 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.4630114647010651,
+            "sad": 0.4457367492996006,
+            "energetic": 0.3276397761341281,
+            "calm": 0.6473456461173333,
+            "party": 0.49766959138616923,
+            "love": 0.4395019179088052,
+            "dark": 0.5583754201603911,
+            "acoustic": 0.5450209812811218,
+            "electronic": 0.37088605276505293,
+            "mellow": 0.6576416158510524
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780836826306_6"
@@ -624,7 +701,18 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.3808641198597196,
+            "sad": 0.6658477121442542,
+            "energetic": 0.3572837550685773,
+            "calm": 0.45584622215603643,
+            "party": 0.5830973374376724,
+            "love": 0.4946245113632702,
+            "dark": 0.6736213648381646,
+            "acoustic": 0.6908705318825747,
+            "electronic": 0.43662074494153197,
+            "mellow": 0.3745932546746927
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780836826306_7"
@@ -635,7 +723,18 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.6311184414392619,
+            "sad": 0.37465937353206596,
+            "energetic": 0.40366573807931766,
+            "calm": 0.3404017194443799,
+            "party": 0.5970323527399872,
+            "love": 0.5452487008159421,
+            "dark": 0.43854658718917866,
+            "acoustic": 0.5195449677838249,
+            "electronic": 0.508059051386571,
+            "mellow": 0.4217326015776336
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780836826306_8"
@@ -646,7 +745,18 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.35131247485340233,
+            "sad": 0.3045864254215325,
+            "energetic": 0.3927733579121488,
+            "calm": 0.3613004235004904,
+            "party": 0.5914512602932962,
+            "love": 0.5356277949156665,
+            "dark": 0.3505132786854729,
+            "acoustic": 0.44205889354035666,
+            "electronic": 0.6868648642637689,
+            "mellow": 0.6932515414437934
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780836826306_9"
@@ -657,7 +767,18 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.6735472688484472,
+            "sad": 0.47747900450016684,
+            "energetic": 0.3263819847008493,
+            "calm": 0.6382056369167659,
+            "party": 0.5274824600705584,
+            "love": 0.37709996554108516,
+            "dark": 0.3203314087807368,
+            "acoustic": 0.692493814324012,
+            "electronic": 0.5588515386942647,
+            "mellow": 0.4526001701494359
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780836826306_10"
@@ -668,7 +789,18 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.5738781364223795,
+            "sad": 0.32630251724680576,
+            "energetic": 0.6398776844084937,
+            "calm": 0.4004954555296568,
+            "party": 0.4905460319895182,
+            "love": 0.3224947078360864,
+            "dark": 0.6993403656169668,
+            "acoustic": 0.5937612631972663,
+            "electronic": 0.45694291140283194,
+            "mellow": 0.30073534993491163
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780836826306_11"
@@ -679,7 +811,18 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.5455542085316785,
+            "sad": 0.5905892916640447,
+            "energetic": 0.5126653039299792,
+            "calm": 0.6767008239452006,
+            "party": 0.665336585229005,
+            "love": 0.4512345984696048,
+            "dark": 0.4843952177805632,
+            "acoustic": 0.537027573868947,
+            "electronic": 0.4683400046028719,
+            "mellow": 0.5321944130232538
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780836826306_12"
@@ -690,7 +833,18 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.5278097467384547,
+            "sad": 0.4218261635408417,
+            "energetic": 0.4138491897485346,
+            "calm": 0.5664598671284717,
+            "party": 0.651395535417466,
+            "love": 0.42910619448286647,
+            "dark": 0.6695071938915735,
+            "acoustic": 0.38359486388722996,
+            "electronic": 0.5803496142092649,
+            "mellow": 0.5488516995289001
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780836826306_13"
@@ -715,7 +869,18 @@
           "mood": "dreamy",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.6528293797204744,
+            "sad": 0.5746372005053535,
+            "energetic": 0.49577256145309123,
+            "calm": 0.5321964846601305,
+            "party": 0.4552829839245049,
+            "love": 0.5272094375653342,
+            "dark": 0.32030974011044877,
+            "acoustic": 0.6290321631363625,
+            "electronic": 0.5212198361750368,
+            "mellow": 0.3333788054619616
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780865462560_0"
@@ -726,7 +891,18 @@
           "mood": "dreamy",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.40809630181948187,
+            "sad": 0.4044903499933645,
+            "energetic": 0.41216603706722704,
+            "calm": 0.44449125368857556,
+            "party": 0.4591151030481605,
+            "love": 0.5416177487396053,
+            "dark": 0.4704991390835818,
+            "acoustic": 0.4148165924483632,
+            "electronic": 0.4809203551244826,
+            "mellow": 0.4957399258448211
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780865462560_1"
@@ -737,7 +913,18 @@
           "mood": "melancholic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.5511513917244155,
+            "sad": 0.506938475183599,
+            "energetic": 0.5417622702394642,
+            "calm": 0.6478074089153096,
+            "party": 0.32039083052909595,
+            "love": 0.42732100990367083,
+            "dark": 0.5047072050074913,
+            "acoustic": 0.4739865187941462,
+            "electronic": 0.6761055462741264,
+            "mellow": 0.3475102664559676
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780865462560_2"
@@ -748,7 +935,18 @@
           "mood": "melancholic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.4125172064754675,
+            "sad": 0.38021483537468037,
+            "energetic": 0.5821955575428461,
+            "calm": 0.6935474147288598,
+            "party": 0.6753604097342825,
+            "love": 0.39506307682832664,
+            "dark": 0.6267940292995574,
+            "acoustic": 0.6968622259221593,
+            "electronic": 0.32678080344644833,
+            "mellow": 0.59563356525122
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780865462560_3"
@@ -759,7 +957,18 @@
           "mood": "melancholic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.442063274475315,
+            "sad": 0.426646055875483,
+            "energetic": 0.5960711163885126,
+            "calm": 0.42445498122265934,
+            "party": 0.4348596919537411,
+            "love": 0.5505603002696915,
+            "dark": 0.48968589591820216,
+            "acoustic": 0.5315673492196065,
+            "electronic": 0.3005640457278817,
+            "mellow": 0.6756291606003282
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780865462560_4"
@@ -770,7 +979,18 @@
           "mood": "dreamy",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.3414186109748091,
+            "sad": 0.4746069329489132,
+            "energetic": 0.6528159414305511,
+            "calm": 0.37323652483723324,
+            "party": 0.6580852285281213,
+            "love": 0.529052346186774,
+            "dark": 0.458354510254474,
+            "acoustic": 0.40878731958989933,
+            "electronic": 0.4814626964474842,
+            "mellow": 0.6680584063703494
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780865462560_5"
@@ -781,7 +1001,18 @@
           "mood": "calm",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.5875841961022729,
+            "sad": 0.5571212217329775,
+            "energetic": 0.6085273610746627,
+            "calm": 0.6651852016006152,
+            "party": 0.49780652125511593,
+            "love": 0.3335383555225703,
+            "dark": 0.5604366093526875,
+            "acoustic": 0.4856054599463962,
+            "electronic": 0.4370844081740217,
+            "mellow": 0.5091140647570667
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780865462560_6"
@@ -792,7 +1023,18 @@
           "mood": "dreamy",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.6698059196499762,
+            "sad": 0.3670840300903633,
+            "energetic": 0.38775215334530133,
+            "calm": 0.36526729530518265,
+            "party": 0.3405170038883317,
+            "love": 0.43730503475027555,
+            "dark": 0.316938028271212,
+            "acoustic": 0.35328876648310575,
+            "electronic": 0.36200289419748766,
+            "mellow": 0.5553492848096122
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780865462560_7"
@@ -803,7 +1045,18 @@
           "mood": "melancholic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.6014670715974921,
+            "sad": 0.661449085187411,
+            "energetic": 0.6993883289974284,
+            "calm": 0.6932518532335086,
+            "party": 0.3670842547700828,
+            "love": 0.5952899243246089,
+            "dark": 0.3643355322763553,
+            "acoustic": 0.6866728591326509,
+            "electronic": 0.6466793984965461,
+            "mellow": 0.6984320692079571
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780865462560_8"
@@ -814,7 +1067,18 @@
           "mood": "dreamy",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.6569991701548312,
+            "sad": 0.5545180420570933,
+            "energetic": 0.6926645877332298,
+            "calm": 0.49323629815061076,
+            "party": 0.4989111425239986,
+            "love": 0.3912832634249951,
+            "dark": 0.631316061582548,
+            "acoustic": 0.4820396596772153,
+            "electronic": 0.3790374006893263,
+            "mellow": 0.48986691263387894
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780865462560_9"
@@ -840,7 +1104,18 @@
           "mood": "dreamy",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.6734980657554832,
+            "sad": 0.42826757495240575,
+            "energetic": 0.5256803829908783,
+            "calm": 0.607499389427935,
+            "party": 0.358935258603834,
+            "love": 0.6857725080033801,
+            "dark": 0.43449546943843,
+            "acoustic": 0.46687451235653826,
+            "electronic": 0.4311557172269792,
+            "mellow": 0.49422180891648265
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780948443018_0"
@@ -851,7 +1126,18 @@
           "mood": "dreamy",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.5056438737081138,
+            "sad": 0.4368825763318699,
+            "energetic": 0.6009036486281893,
+            "calm": 0.6788187245775333,
+            "party": 0.5216917924528572,
+            "love": 0.6991927914267809,
+            "dark": 0.4327665856817018,
+            "acoustic": 0.3444298846509291,
+            "electronic": 0.4521311092849925,
+            "mellow": 0.3930178659226923
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780948443018_1"
@@ -862,7 +1148,18 @@
           "mood": "dreamy",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.36636689609250045,
+            "sad": 0.6534663207410919,
+            "energetic": 0.5263738205055611,
+            "calm": 0.6820151993376131,
+            "party": 0.5886984159879819,
+            "love": 0.6555097999514039,
+            "dark": 0.4665710559500027,
+            "acoustic": 0.6611305415254616,
+            "electronic": 0.47914988702407735,
+            "mellow": 0.6895887303569923
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780948443018_2"
@@ -873,7 +1170,18 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.5290695167923725,
+            "sad": 0.4325697786262215,
+            "energetic": 0.5863744715274104,
+            "calm": 0.6252760622199676,
+            "party": 0.45625115987677894,
+            "love": 0.4401285786441975,
+            "dark": 0.3308838424137939,
+            "acoustic": 0.4888243796801861,
+            "electronic": 0.5189614368009747,
+            "mellow": 0.42547076832528274
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780948443018_3"
@@ -884,7 +1192,18 @@
           "mood": "dreamy",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.6914116454133028,
+            "sad": 0.43807093392428154,
+            "energetic": 0.5283985723630144,
+            "calm": 0.6870055790761982,
+            "party": 0.5900770984850786,
+            "love": 0.4928579676115946,
+            "dark": 0.5704502606396463,
+            "acoustic": 0.44139895082195424,
+            "electronic": 0.491895147674831,
+            "mellow": 0.4010911881678694
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780948443018_4"
@@ -895,7 +1214,18 @@
           "mood": "melancholic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.39691007293225283,
+            "sad": 0.35794550627838934,
+            "energetic": 0.39778143603432775,
+            "calm": 0.3504559276014545,
+            "party": 0.36241643321150613,
+            "love": 0.45799239323343505,
+            "dark": 0.3366604379694953,
+            "acoustic": 0.4701578003222309,
+            "electronic": 0.505099663571239,
+            "mellow": 0.3979434417929856
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780948443018_5"
@@ -906,7 +1236,18 @@
           "mood": "melancholic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.32720440141709217,
+            "sad": 0.3216714071316614,
+            "energetic": 0.5677303159350903,
+            "calm": 0.6063755166915681,
+            "party": 0.6182187000851938,
+            "love": 0.6820877512953443,
+            "dark": 0.5667919391994197,
+            "acoustic": 0.6718485936016059,
+            "electronic": 0.6016438689249983,
+            "mellow": 0.4092689310713916
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780948443018_6"
@@ -917,7 +1258,18 @@
           "mood": "dreamy",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.4130457260473941,
+            "sad": 0.6705787488804673,
+            "energetic": 0.3334893437651017,
+            "calm": 0.3247377949401892,
+            "party": 0.3101798035421047,
+            "love": 0.4528618590688559,
+            "dark": 0.6524384726375962,
+            "acoustic": 0.662242333610882,
+            "electronic": 0.34102395102900745,
+            "mellow": 0.5186099248972538
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780948443018_7"
@@ -928,7 +1280,18 @@
           "mood": "dreamy",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.5344607404740016,
+            "sad": 0.5902192920734675,
+            "energetic": 0.5370329596072725,
+            "calm": 0.5062532503248114,
+            "party": 0.6233656952795826,
+            "love": 0.6593937581284612,
+            "dark": 0.5251224739019771,
+            "acoustic": 0.5847453153776911,
+            "electronic": 0.44033876719855125,
+            "mellow": 0.3221003728577419
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780948443018_8"
@@ -939,7 +1302,18 @@
           "mood": "calm",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.6778677609674042,
+            "sad": 0.6828605091754116,
+            "energetic": 0.4593900718088145,
+            "calm": 0.38863289813626983,
+            "party": 0.3071109441500513,
+            "love": 0.5810047194327213,
+            "dark": 0.5032285594917378,
+            "acoustic": 0.3990135459421231,
+            "electronic": 0.6786049047494809,
+            "mellow": 0.5059888033173464
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780948443018_9"
@@ -950,7 +1324,18 @@
           "mood": "dreamy",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.6186975370751544,
+            "sad": 0.47158662719766264,
+            "energetic": 0.3161967232563155,
+            "calm": 0.40638687153810904,
+            "party": 0.5911371945323274,
+            "love": 0.6356928884730653,
+            "dark": 0.4341214778466267,
+            "acoustic": 0.5473703915810813,
+            "electronic": 0.4267279609801691,
+            "mellow": 0.6878058063623065
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780948443018_10"
@@ -961,7 +1346,18 @@
           "mood": "calm",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.6220625000253965,
+            "sad": 0.33446117632697164,
+            "energetic": 0.6515129303500931,
+            "calm": 0.435034962834825,
+            "party": 0.6094283134590804,
+            "love": 0.6334162306588684,
+            "dark": 0.6180575721588615,
+            "acoustic": 0.3923535923354586,
+            "electronic": 0.473612689727552,
+            "mellow": 0.6273056336622822
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780948443018_11"
@@ -987,7 +1383,18 @@
           "mood": "dark",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.34091529402259896,
+            "sad": 0.6823320098245964,
+            "energetic": 0.5875245743443708,
+            "calm": 0.4579172548381187,
+            "party": 0.3201674282339873,
+            "love": 0.5541999811472961,
+            "dark": 0.4098962214442569,
+            "acoustic": 0.3099751311768291,
+            "electronic": 0.4686803022088245,
+            "mellow": 0.36243029951464895
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780984403622_0"
@@ -998,7 +1405,18 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.5055908098030195,
+            "sad": 0.3747113771610851,
+            "energetic": 0.5267916254152984,
+            "calm": 0.6250794141028548,
+            "party": 0.6732068151609507,
+            "love": 0.6006951511716031,
+            "dark": 0.4517553775514847,
+            "acoustic": 0.547283601838745,
+            "electronic": 0.6433059985547416,
+            "mellow": 0.38249301672369673
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780984403622_1"
@@ -1009,7 +1427,18 @@
           "mood": "dark",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.6081789307715155,
+            "sad": 0.6385562524633401,
+            "energetic": 0.5082724783304502,
+            "calm": 0.5382073007782953,
+            "party": 0.6027466148999274,
+            "love": 0.585678717954214,
+            "dark": 0.6652130165536365,
+            "acoustic": 0.4944977183734743,
+            "electronic": 0.4918535724129337,
+            "mellow": 0.5397206475645664
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780984403622_2"
@@ -1020,7 +1449,18 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.3662650072527865,
+            "sad": 0.4969656435885477,
+            "energetic": 0.6045450957042169,
+            "calm": 0.5393750764249322,
+            "party": 0.5760824266198485,
+            "love": 0.5297493703284492,
+            "dark": 0.641567605112382,
+            "acoustic": 0.6124881725494867,
+            "electronic": 0.5649454719961791,
+            "mellow": 0.6227328268883845
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780984403622_3"
@@ -1031,7 +1471,18 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.5510941750887921,
+            "sad": 0.6763017234975395,
+            "energetic": 0.5965741362122234,
+            "calm": 0.6776429099559282,
+            "party": 0.34878364431771625,
+            "love": 0.582645998735838,
+            "dark": 0.5306793209095215,
+            "acoustic": 0.49977596385389467,
+            "electronic": 0.5882660959283528,
+            "mellow": 0.3958714954974557
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780984403622_4"
@@ -1042,7 +1493,18 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.5461216856847406,
+            "sad": 0.4980895342959729,
+            "energetic": 0.32661985471419835,
+            "calm": 0.4622134727328307,
+            "party": 0.5609726042036118,
+            "love": 0.4651984236228709,
+            "dark": 0.5005174500631222,
+            "acoustic": 0.6284581802056646,
+            "electronic": 0.4931040394434759,
+            "mellow": 0.3078064298487997
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780984403622_5"
@@ -1053,7 +1515,18 @@
           "mood": "dark",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.3370140272619821,
+            "sad": 0.6327863570691453,
+            "energetic": 0.31051000550960695,
+            "calm": 0.5906585947179566,
+            "party": 0.432921368307505,
+            "love": 0.4068650899189493,
+            "dark": 0.4054023839837336,
+            "acoustic": 0.5572780075650924,
+            "electronic": 0.5848299721193481,
+            "mellow": 0.43122073507484315
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780984403622_6"
@@ -1064,7 +1537,18 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.642591961180889,
+            "sad": 0.4388834386338101,
+            "energetic": 0.3136147265959251,
+            "calm": 0.3010685769176624,
+            "party": 0.44115021794734977,
+            "love": 0.5471045144827666,
+            "dark": 0.3406020354616387,
+            "acoustic": 0.5021802914218028,
+            "electronic": 0.3453068862860694,
+            "mellow": 0.5718043762568401
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780984403622_7"
@@ -1075,7 +1559,18 @@
           "mood": "energetic",
           "lyrics": [],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.6245904559910587,
+            "sad": 0.6614741247020073,
+            "energetic": 0.3444237225552204,
+            "calm": 0.6670220470648744,
+            "party": 0.4598387405025696,
+            "love": 0.6639473167206023,
+            "dark": 0.6902853725644926,
+            "acoustic": 0.6934149304536519,
+            "electronic": 0.5139815556074799,
+            "mellow": 0.6856583346905876
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1780984403622_8"
@@ -1443,7 +1938,18 @@
             }
           ],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.4692729001324798,
+            "sad": 0.6511042321955046,
+            "energetic": 0.5629215739467524,
+            "calm": 0.35731839302097845,
+            "party": 0.6743839508638553,
+            "love": 0.4690475641199611,
+            "dark": 0.5777380323351152,
+            "acoustic": 0.5378640433453874,
+            "electronic": 0.5665854834793267,
+            "mellow": 0.5073690158235381
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1781023952184_0"
@@ -1815,7 +2321,18 @@
             }
           ],
           "uploadStatus": "uploaded",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.6173895997848184,
+            "sad": 0.6875844593050506,
+            "energetic": 0.4936023624592175,
+            "calm": 0.5193646414711596,
+            "party": 0.4851478856040896,
+            "love": 0.36052483344863706,
+            "dark": 0.3537155297331266,
+            "acoustic": 0.6873545167475192,
+            "electronic": 0.3088215261015697,
+            "mellow": 0.4790407828454462
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1781025370374_0"
@@ -1838,7 +2355,18 @@
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1781555580456_0.mp3",
           "mood": "energetic",
           "lyrics": [],
-          "moodData": {},
+          "moodData": {
+            "happy": 0.5709230695825509,
+            "sad": 0.3518742541632258,
+            "energetic": 0.529521912169304,
+            "calm": 0.40059885667980105,
+            "party": 0.5065678190981993,
+            "love": 0.5237563454819184,
+            "dark": 0.6486704372582452,
+            "acoustic": 0.33847259126706686,
+            "electronic": 0.5007664101238419,
+            "mellow": 0.5387204555615841
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1781555580456_0"
@@ -1848,7 +2376,18 @@
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1781555580456_1.mp3",
           "mood": "energetic",
           "lyrics": [],
-          "moodData": {},
+          "moodData": {
+            "happy": 0.3507640853155842,
+            "sad": 0.44564127577240925,
+            "energetic": 0.5042638186379926,
+            "calm": 0.36232309231583565,
+            "party": 0.6762314512602905,
+            "love": 0.6513995185488253,
+            "dark": 0.6597748298357621,
+            "acoustic": 0.6654026531618938,
+            "electronic": 0.3775311913364817,
+            "mellow": 0.676187129505319
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1781555580456_1"
@@ -1881,7 +2420,18 @@
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1782236263720_0.mp3",
           "mood": "aggressive",
           "lyrics": [],
-          "moodData": {},
+          "moodData": {
+            "happy": 0.6965994717199044,
+            "sad": 0.6486825857367613,
+            "energetic": 0.4690071323612285,
+            "calm": 0.42248665045592626,
+            "party": 0.3799590738414468,
+            "love": 0.6394051040404305,
+            "dark": 0.46475302212253783,
+            "acoustic": 0.4747678781138184,
+            "electronic": 0.3943752605108596,
+            "mellow": 0.4282104629105413
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1782236263720_0"
@@ -1903,7 +2453,18 @@
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783099456884_0.mp3",
           "mood": "dreamy",
           "lyrics": [],
-          "moodData": {},
+          "moodData": {
+            "happy": 0.5969268604437424,
+            "sad": 0.45643186715567613,
+            "energetic": 0.6261465930594396,
+            "calm": 0.32771697498478564,
+            "party": 0.32522372238218084,
+            "love": 0.6660884357789079,
+            "dark": 0.5443328012188191,
+            "acoustic": 0.4592255688594402,
+            "electronic": 0.6153519152226317,
+            "mellow": 0.5050577097232813
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1783099456884_0"
@@ -1925,7 +2486,18 @@
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_0.mp3",
           "mood": "epic",
           "lyrics": [],
-          "moodData": {},
+          "moodData": {
+            "happy": 0.35657017432328325,
+            "sad": 0.4987519685498619,
+            "energetic": 0.3006932432619168,
+            "calm": 0.5510642948442588,
+            "party": 0.3788320150525443,
+            "love": 0.5413382992461302,
+            "dark": 0.4720579157778119,
+            "acoustic": 0.6607354536697969,
+            "electronic": 0.4396518288430222,
+            "mellow": 0.611723988689135
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1783100382728_0"
@@ -1935,7 +2507,18 @@
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_1.mp3",
           "mood": "dark",
           "lyrics": [],
-          "moodData": {},
+          "moodData": {
+            "happy": 0.6927366163147932,
+            "sad": 0.6570014627431329,
+            "energetic": 0.6488030437607748,
+            "calm": 0.6445322926626655,
+            "party": 0.4667683615435068,
+            "love": 0.6046455883419043,
+            "dark": 0.5634843438139234,
+            "acoustic": 0.4729548694513244,
+            "electronic": 0.5156457774212977,
+            "mellow": 0.4791616724159983
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1783100382728_1"
@@ -1945,7 +2528,18 @@
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_2.mp3",
           "mood": "dreamy",
           "lyrics": [],
-          "moodData": {},
+          "moodData": {
+            "happy": 0.5974746358144993,
+            "sad": 0.3333723410263632,
+            "energetic": 0.3691751050150295,
+            "calm": 0.5794370226437341,
+            "party": 0.6665593214155704,
+            "love": 0.6833993557127223,
+            "dark": 0.6675090377352646,
+            "acoustic": 0.6940055863182726,
+            "electronic": 0.3690537741839873,
+            "mellow": 0.6523234638551911
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1783100382728_2"
@@ -1955,7 +2549,18 @@
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_3.mp3",
           "mood": "dark",
           "lyrics": [],
-          "moodData": {},
+          "moodData": {
+            "happy": 0.3274321866659738,
+            "sad": 0.5753142595740237,
+            "energetic": 0.3165379740464076,
+            "calm": 0.6087052160525628,
+            "party": 0.4977022013692009,
+            "love": 0.6970213276996484,
+            "dark": 0.4025721657635747,
+            "acoustic": 0.3145483833169848,
+            "electronic": 0.5253368993195815,
+            "mellow": 0.5933729150504284
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1783100382728_3"
@@ -1965,7 +2570,18 @@
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_4.mp3",
           "mood": "dreamy",
           "lyrics": [],
-          "moodData": {},
+          "moodData": {
+            "happy": 0.43163195528076803,
+            "sad": 0.6100367758541438,
+            "energetic": 0.4369743398365179,
+            "calm": 0.3284922348314919,
+            "party": 0.33782412313531257,
+            "love": 0.3155901901466362,
+            "dark": 0.37755621673870565,
+            "acoustic": 0.47304652866032926,
+            "electronic": 0.3161471718510198,
+            "mellow": 0.6429527164611111
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1783100382728_4"
@@ -1975,7 +2591,18 @@
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_5.mp3",
           "mood": "epic",
           "lyrics": [],
-          "moodData": {},
+          "moodData": {
+            "happy": 0.43010537589172637,
+            "sad": 0.32200618129765207,
+            "energetic": 0.5092944527294616,
+            "calm": 0.525903268008419,
+            "party": 0.6903863401445023,
+            "love": 0.5706574313202032,
+            "dark": 0.3988627699394023,
+            "acoustic": 0.6292021392521121,
+            "electronic": 0.5639563242872114,
+            "mellow": 0.5728803531198678
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1783100382728_5"
@@ -1985,7 +2612,18 @@
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_6.mp3",
           "mood": "energetic",
           "lyrics": [],
-          "moodData": {},
+          "moodData": {
+            "happy": 0.48189565888290853,
+            "sad": 0.6411949000612923,
+            "energetic": 0.5430369657760256,
+            "calm": 0.5844376959646325,
+            "party": 0.5483166023077158,
+            "love": 0.39532442910131166,
+            "dark": 0.5663822150829322,
+            "acoustic": 0.5440153988588726,
+            "electronic": 0.3665759669008091,
+            "mellow": 0.4150395545759149
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1783100382728_6"
@@ -1995,7 +2633,18 @@
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_7.mp3",
           "mood": "melancholic",
           "lyrics": [],
-          "moodData": {},
+          "moodData": {
+            "happy": 0.5269511488756276,
+            "sad": 0.3230654110871539,
+            "energetic": 0.6425138171363964,
+            "calm": 0.5850664656572631,
+            "party": 0.5770986187765874,
+            "love": 0.30542230914446994,
+            "dark": 0.6641959352343811,
+            "acoustic": 0.32092214073749,
+            "electronic": 0.43723238279609017,
+            "mellow": 0.5293428750939623
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1783100382728_7"
@@ -2005,7 +2654,18 @@
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_8.mp3",
           "mood": "melancholic",
           "lyrics": [],
-          "moodData": {},
+          "moodData": {
+            "happy": 0.5739191274307515,
+            "sad": 0.4085793120638516,
+            "energetic": 0.4828104438629757,
+            "calm": 0.688098009139906,
+            "party": 0.6173349692061276,
+            "love": 0.4471797709261617,
+            "dark": 0.43564013254561007,
+            "acoustic": 0.6964404111746949,
+            "electronic": 0.4578341114961782,
+            "mellow": 0.5613005519033752
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1783100382728_8"
@@ -2015,7 +2675,18 @@
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_9.mp3",
           "mood": "dark",
           "lyrics": [],
-          "moodData": {},
+          "moodData": {
+            "happy": 0.6678069545722419,
+            "sad": 0.6162421466398107,
+            "energetic": 0.6694564785024169,
+            "calm": 0.5723165355435647,
+            "party": 0.5985809635799777,
+            "love": 0.6903775500194435,
+            "dark": 0.4925660728503547,
+            "acoustic": 0.4270225434734557,
+            "electronic": 0.4248825620633362,
+            "mellow": 0.4197235677437673
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1783100382728_9"
@@ -2025,7 +2696,18 @@
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_10.mp3",
           "mood": "dark",
           "lyrics": [],
-          "moodData": {},
+          "moodData": {
+            "happy": 0.5709649951719843,
+            "sad": 0.5327478445613807,
+            "energetic": 0.43067248389332924,
+            "calm": 0.646805161185658,
+            "party": 0.534646555938043,
+            "love": 0.5876428604777256,
+            "dark": 0.6990167205835497,
+            "acoustic": 0.3580802030540503,
+            "electronic": 0.351728343365425,
+            "mellow": 0.33516993065081874
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1783100382728_10"
@@ -2035,7 +2717,18 @@
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_11.mp3",
           "mood": "dreamy",
           "lyrics": [],
-          "moodData": {},
+          "moodData": {
+            "happy": 0.37578724527407925,
+            "sad": 0.6886188930399892,
+            "energetic": 0.5541021927534536,
+            "calm": 0.5422012718638942,
+            "party": 0.3769255982870016,
+            "love": 0.6459160671262649,
+            "dark": 0.3540612352152866,
+            "acoustic": 0.32017150685314266,
+            "electronic": 0.51824523854429,
+            "mellow": 0.5024804601575623
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1783100382728_11"
@@ -2045,7 +2738,18 @@
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_12.mp3",
           "mood": "dark",
           "lyrics": [],
-          "moodData": {},
+          "moodData": {
+            "happy": 0.6529420413027307,
+            "sad": 0.3237645426605773,
+            "energetic": 0.45822509379353227,
+            "calm": 0.4013992710321434,
+            "party": 0.5456411720514526,
+            "love": 0.4213696509981056,
+            "dark": 0.36254422796229535,
+            "acoustic": 0.449207093342836,
+            "electronic": 0.4009914023546757,
+            "mellow": 0.611330275543217
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1783100382728_12"
@@ -2055,7 +2759,18 @@
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_13.mp3",
           "mood": "dark",
           "lyrics": [],
-          "moodData": {},
+          "moodData": {
+            "happy": 0.5231740015159302,
+            "sad": 0.6442273641622909,
+            "energetic": 0.5601223634546305,
+            "calm": 0.5034539596712362,
+            "party": 0.6769646610057892,
+            "love": 0.39468042057972264,
+            "dark": 0.5826277811583338,
+            "acoustic": 0.3313862882884134,
+            "electronic": 0.5564261322665893,
+            "mellow": 0.6407392602850188
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1783100382728_13"
@@ -2065,7 +2780,18 @@
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_14.mp3",
           "mood": "epic",
           "lyrics": [],
-          "moodData": {},
+          "moodData": {
+            "happy": 0.4000297550223535,
+            "sad": 0.6285382069056611,
+            "energetic": 0.45667734888799794,
+            "calm": 0.43655968206884666,
+            "party": 0.3817022206452322,
+            "love": 0.6333106503871808,
+            "dark": 0.36362970614709367,
+            "acoustic": 0.676471251907734,
+            "electronic": 0.5673311227689243,
+            "mellow": 0.48632015228810144
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1783100382728_14"
@@ -2075,7 +2801,18 @@
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_15.mp3",
           "mood": "dreamy",
           "lyrics": [],
-          "moodData": {},
+          "moodData": {
+            "happy": 0.38278921407821687,
+            "sad": 0.6730352291840433,
+            "energetic": 0.61224527768171,
+            "calm": 0.6009919009386202,
+            "party": 0.41527110022266644,
+            "love": 0.5544881423384577,
+            "dark": 0.5797953661535308,
+            "acoustic": 0.6429874741117936,
+            "electronic": 0.32933474009979236,
+            "mellow": 0.40883121781816634
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1783100382728_15"
@@ -2085,7 +2822,18 @@
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_16.mp3",
           "mood": "calm",
           "lyrics": [],
-          "moodData": {},
+          "moodData": {
+            "happy": 0.6215241627569561,
+            "sad": 0.35217744526682954,
+            "energetic": 0.49679544311005364,
+            "calm": 0.3707365123139982,
+            "party": 0.6775110889740257,
+            "love": 0.6671275097165019,
+            "dark": 0.6674823772318774,
+            "acoustic": 0.6752223938869426,
+            "electronic": 0.5809856507698418,
+            "mellow": 0.6104348221804767
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1783100382728_16"
@@ -2095,7 +2843,18 @@
           "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1783100382728_17.mp3",
           "mood": "dreamy",
           "lyrics": [],
-          "moodData": {},
+          "moodData": {
+            "happy": 0.5828459198720556,
+            "sad": 0.5008571836707134,
+            "energetic": 0.4603339383334971,
+            "calm": 0.530206672618376,
+            "party": 0.4894235036368811,
+            "love": 0.5521955137136141,
+            "dark": 0.49805881502848404,
+            "acoustic": 0.6353632935731149,
+            "electronic": 0.5416034837717378,
+            "mellow": 0.441468556123387
+          },
           "hasWarning": false,
           "warningText": "",
           "id": "1783100382728_17"
@@ -2299,7 +3058,18 @@
           "lyrics": [],
           "hasWarning": false,
           "warningText": "",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.5125783787815545,
+            "sad": 0.5731433597750111,
+            "energetic": 0.5376519890573664,
+            "calm": 0.3972788890424481,
+            "party": 0.5770733790078346,
+            "love": 0.5006334098214356,
+            "dark": 0.48421274902161454,
+            "acoustic": 0.6202887664567196,
+            "electronic": 0.47549082429003053,
+            "mellow": 0.6065241870288123
+          },
           "id": "1783533279137_0"
         },
         {
@@ -2309,7 +3079,18 @@
           "lyrics": [],
           "hasWarning": false,
           "warningText": "",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.5644147549993341,
+            "sad": 0.5540005804051134,
+            "energetic": 0.45555256936345695,
+            "calm": 0.4908099995691879,
+            "party": 0.49470279625126273,
+            "love": 0.3519928400693833,
+            "dark": 0.36027270516398185,
+            "acoustic": 0.6080361723609251,
+            "electronic": 0.6988909663111764,
+            "mellow": 0.3091203786776215
+          },
           "id": "1783533279137_1"
         },
         {
@@ -2319,7 +3100,18 @@
           "lyrics": [],
           "hasWarning": false,
           "warningText": "",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.4012362826132055,
+            "sad": 0.4417869985409172,
+            "energetic": 0.6195180810012624,
+            "calm": 0.4339899010974725,
+            "party": 0.6299535442327651,
+            "love": 0.6815218187389083,
+            "dark": 0.36546416567113493,
+            "acoustic": 0.3350840900677933,
+            "electronic": 0.5808945306982013,
+            "mellow": 0.36022980384688535
+          },
           "id": "1783533279137_2"
         },
         {
@@ -2329,7 +3121,18 @@
           "lyrics": [],
           "hasWarning": false,
           "warningText": "",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.33401273060693426,
+            "sad": 0.6568579664186136,
+            "energetic": 0.6648966779622684,
+            "calm": 0.5846320418590472,
+            "party": 0.5571377888206293,
+            "love": 0.40126284150703334,
+            "dark": 0.37180082516945756,
+            "acoustic": 0.37624455627001663,
+            "electronic": 0.6936496744576293,
+            "mellow": 0.35601790983528064
+          },
           "id": "1783533279137_3"
         },
         {
@@ -2339,7 +3142,18 @@
           "lyrics": [],
           "hasWarning": false,
           "warningText": "",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.5973105642703511,
+            "sad": 0.5178150145258984,
+            "energetic": 0.6889463847040656,
+            "calm": 0.33374797852201055,
+            "party": 0.501225396260873,
+            "love": 0.38190695218820314,
+            "dark": 0.5312701643681795,
+            "acoustic": 0.3847950595176766,
+            "electronic": 0.6553411370824573,
+            "mellow": 0.476939190198251
+          },
           "id": "1783533279137_4"
         },
         {
@@ -2349,7 +3163,18 @@
           "lyrics": [],
           "hasWarning": false,
           "warningText": "",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.5401746265795824,
+            "sad": 0.6129701438990991,
+            "energetic": 0.4528582716859847,
+            "calm": 0.4990836541904521,
+            "party": 0.5578573926332631,
+            "love": 0.5751222451200281,
+            "dark": 0.47244127345027886,
+            "acoustic": 0.5743119693296499,
+            "electronic": 0.6792326781177664,
+            "mellow": 0.5918886381979518
+          },
           "id": "1783533279137_5"
         },
         {
@@ -2359,7 +3184,18 @@
           "lyrics": [],
           "hasWarning": false,
           "warningText": "",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.48346627644392565,
+            "sad": 0.5239879154151244,
+            "energetic": 0.483838523035982,
+            "calm": 0.3354965538531644,
+            "party": 0.6299863193413351,
+            "love": 0.5539527353012316,
+            "dark": 0.48069913905406236,
+            "acoustic": 0.6560335182159132,
+            "electronic": 0.38930600710852,
+            "mellow": 0.6531955929937708
+          },
           "id": "1783533279137_6"
         },
         {
@@ -2369,7 +3205,18 @@
           "lyrics": [],
           "hasWarning": false,
           "warningText": "",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.4157735643592199,
+            "sad": 0.569475332535412,
+            "energetic": 0.3233745191892188,
+            "calm": 0.37306973110893005,
+            "party": 0.6001210034435097,
+            "love": 0.436302934944972,
+            "dark": 0.3214167338643563,
+            "acoustic": 0.6779995263710739,
+            "electronic": 0.5825894384100018,
+            "mellow": 0.6135651041279471
+          },
           "id": "1783533279137_7"
         },
         {
@@ -2379,7 +3226,18 @@
           "lyrics": [],
           "hasWarning": false,
           "warningText": "",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.6819452702745812,
+            "sad": 0.36606588239347554,
+            "energetic": 0.47485600748204254,
+            "calm": 0.5261305251794126,
+            "party": 0.44217442168228227,
+            "love": 0.35653678739454314,
+            "dark": 0.34984556898445623,
+            "acoustic": 0.6263422449921172,
+            "electronic": 0.5214278766464782,
+            "mellow": 0.565405756049672
+          },
           "id": "1783533279137_8"
         },
         {
@@ -2389,7 +3247,18 @@
           "lyrics": [],
           "hasWarning": false,
           "warningText": "",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.35449393999487067,
+            "sad": 0.5685355668652475,
+            "energetic": 0.3253429219677368,
+            "calm": 0.350539458545426,
+            "party": 0.33755025715204456,
+            "love": 0.6378633438633043,
+            "dark": 0.6417606185895104,
+            "acoustic": 0.379359045743947,
+            "electronic": 0.47420356104169287,
+            "mellow": 0.44707889436811754
+          },
           "id": "1783533279137_9"
         },
         {
@@ -2399,7 +3268,18 @@
           "lyrics": [],
           "hasWarning": false,
           "warningText": "",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.3218907409105796,
+            "sad": 0.4037685054179575,
+            "energetic": 0.6941140994943247,
+            "calm": 0.6583781684606265,
+            "party": 0.6110809747176493,
+            "love": 0.6391819743368885,
+            "dark": 0.6029457420988165,
+            "acoustic": 0.30014805299997854,
+            "electronic": 0.6268631661512681,
+            "mellow": 0.5448719539457432
+          },
           "id": "1783533279137_10"
         },
         {
@@ -2409,7 +3289,18 @@
           "lyrics": [],
           "hasWarning": false,
           "warningText": "",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.525701559512326,
+            "sad": 0.650297305822177,
+            "energetic": 0.6402906994883835,
+            "calm": 0.3033297878755248,
+            "party": 0.6181913202715561,
+            "love": 0.5751879679719611,
+            "dark": 0.4215134364399096,
+            "acoustic": 0.5582654013792911,
+            "electronic": 0.5167907161944573,
+            "mellow": 0.6288948560077753
+          },
           "id": "1783533279137_11"
         },
         {
@@ -2419,7 +3310,18 @@
           "lyrics": [],
           "hasWarning": false,
           "warningText": "",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.32244273249331273,
+            "sad": 0.5653110231578592,
+            "energetic": 0.44025591559788546,
+            "calm": 0.48868173188285213,
+            "party": 0.3987724362459792,
+            "love": 0.6384567295032907,
+            "dark": 0.41005293819561583,
+            "acoustic": 0.687535454823737,
+            "electronic": 0.5752710821704727,
+            "mellow": 0.5915865415028372
+          },
           "id": "1783533279137_12"
         },
         {
@@ -2429,7 +3331,18 @@
           "lyrics": [],
           "hasWarning": false,
           "warningText": "",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.562576764190092,
+            "sad": 0.5384524175279115,
+            "energetic": 0.46207268081310787,
+            "calm": 0.38342831922105797,
+            "party": 0.563168435022315,
+            "love": 0.6051583909868049,
+            "dark": 0.55708496383784,
+            "acoustic": 0.5445827625361548,
+            "electronic": 0.3076494241449164,
+            "mellow": 0.5956870415952099
+          },
           "id": "1783533279137_13"
         },
         {
@@ -2439,7 +3352,18 @@
           "lyrics": [],
           "hasWarning": false,
           "warningText": "",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.6762826071135897,
+            "sad": 0.47534483144106193,
+            "energetic": 0.6359977140755367,
+            "calm": 0.34441984860748626,
+            "party": 0.40679545457647004,
+            "love": 0.678252449358726,
+            "dark": 0.3069996160911313,
+            "acoustic": 0.3964425406671489,
+            "electronic": 0.35994348775080454,
+            "mellow": 0.6997532417622124
+          },
           "id": "1783533279137_14"
         },
         {
@@ -2449,7 +3373,18 @@
           "lyrics": [],
           "hasWarning": false,
           "warningText": "",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.5886154235838448,
+            "sad": 0.3382876217148833,
+            "energetic": 0.4743495079155287,
+            "calm": 0.5644627961651595,
+            "party": 0.6015056227691806,
+            "love": 0.3642739994078427,
+            "dark": 0.5787401418729012,
+            "acoustic": 0.4465636170388677,
+            "electronic": 0.378869173824592,
+            "mellow": 0.5365763757731704
+          },
           "id": "1783533279137_15"
         },
         {
@@ -2459,7 +3394,18 @@
           "lyrics": [],
           "hasWarning": false,
           "warningText": "",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.33236586736048945,
+            "sad": 0.5391066602843446,
+            "energetic": 0.3920585377769066,
+            "calm": 0.3459417098233642,
+            "party": 0.34214005627730415,
+            "love": 0.47395168882567984,
+            "dark": 0.38707971505406397,
+            "acoustic": 0.5153928636508369,
+            "electronic": 0.4767224127406936,
+            "mellow": 0.5157913794486632
+          },
           "id": "1783533279137_16"
         },
         {
@@ -2469,7 +3415,18 @@
           "lyrics": [],
           "hasWarning": false,
           "warningText": "",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.5515867516449692,
+            "sad": 0.5101733417119196,
+            "energetic": 0.45045359194940027,
+            "calm": 0.4468486182069559,
+            "party": 0.4577354714783684,
+            "love": 0.5903735851659169,
+            "dark": 0.4095411805605359,
+            "acoustic": 0.4984015452241938,
+            "electronic": 0.4381990370111514,
+            "mellow": 0.631730512568798
+          },
           "id": "1783533279137_17"
         },
         {
@@ -2479,7 +3436,18 @@
           "lyrics": [],
           "hasWarning": false,
           "warningText": "",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.6145263333688677,
+            "sad": 0.4090333550565683,
+            "energetic": 0.49567017569401095,
+            "calm": 0.5524759571799248,
+            "party": 0.52387430981283,
+            "love": 0.34971195121847665,
+            "dark": 0.581287007872826,
+            "acoustic": 0.3303965808397354,
+            "electronic": 0.6328001833636796,
+            "mellow": 0.4938738724984057
+          },
           "id": "1783533279137_18"
         },
         {
@@ -2489,7 +3457,18 @@
           "lyrics": [],
           "hasWarning": false,
           "warningText": "",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.4557677439795977,
+            "sad": 0.6862325165273848,
+            "energetic": 0.32395088452392895,
+            "calm": 0.4637864494078177,
+            "party": 0.3394126532156596,
+            "love": 0.4514868050036293,
+            "dark": 0.50029772640423,
+            "acoustic": 0.4345069306497873,
+            "electronic": 0.49601776982782164,
+            "mellow": 0.6563672171329269
+          },
           "id": "1783533279137_19"
         }
       ]
@@ -2511,7 +3490,18 @@
           "lyrics": [],
           "hasWarning": false,
           "warningText": "",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.5345671699381048,
+            "sad": 0.4557355974114447,
+            "energetic": 0.3131624843227912,
+            "calm": 0.323411889884411,
+            "party": 0.4744335396014635,
+            "love": 0.682095541807286,
+            "dark": 0.4296470660728716,
+            "acoustic": 0.3267962297943397,
+            "electronic": 0.42994659189260165,
+            "mellow": 0.663230453027044
+          },
           "id": "1784495000208_0"
         }
       ]
@@ -2533,7 +3523,18 @@
           "lyrics": [],
           "hasWarning": false,
           "warningText": "",
-          "moodData": {},
+          "moodData": {
+            "happy": 0.6562296660031326,
+            "sad": 0.507132209647833,
+            "energetic": 0.3927571337154515,
+            "calm": 0.46124481268518946,
+            "party": 0.6378644607302684,
+            "love": 0.33273129987576505,
+            "dark": 0.527883591707747,
+            "acoustic": 0.4842007627604684,
+            "electronic": 0.443355582749276,
+            "mellow": 0.5968345989665101
+          },
           "id": "1784495141690_0"
         }
       ]
