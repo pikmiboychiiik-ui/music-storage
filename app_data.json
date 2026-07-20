@@ -2612,18 +2612,6 @@
     "fileSize": "13.10 MB",
     "checksum": "sha256-o63e85px"
   },
-  "collections": [
-    {
-      "id": "1784557299139",
-      "name": "test",
-      "coverUrl": "",
-      "songIds": [
-        "1780777097945_1",
-        "1780984403622_4",
-        "1783533279137_14"
-      ],
-      "createdAt": "2026-07-20T14:21:39.139Z"
-    }
-  ],
+  "collections": [],
   "likes": {}
 }
