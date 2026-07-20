@@ -72,7 +72,7 @@
       "bio": "Росийский инди-поп и инди-рок исполнитель, сонграйтер и блогер\n",
       "genre": "Pop",
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/1781305213490.png",
-      "releaseCount": 3,
+      "releaseCount": 4,
       "hasWarning": false,
       "warningText": ""
     },
@@ -3526,6 +3526,42 @@
             "mellow": 0.5968345989665101
           },
           "id": "1784495141690_0"
+        }
+      ]
+    },
+    {
+      "id": "1784575040923",
+      "artistId": "1781305213490",
+      "type": "ep",
+      "title": "любовь пройдёт нескоро",
+      "date": "2023-10-06",
+      "genre": "Pop",
+      "coverUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/covers/1784575040923.png",
+      "accentColor": "#ffffff",
+      "tracks": [
+        {
+          "title": "любовь пройдет не скоро",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1784575040923_0.mp3",
+          "mood": "melancholic",
+          "lyrics": []
+        },
+        {
+          "title": "любовь пройдет не скоро (speed up)",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1784575040923_1.mp3",
+          "mood": "melancholic",
+          "lyrics": []
+        },
+        {
+          "title": "твоя любовь пройдет не скоро",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1784575040923_2.mp3",
+          "mood": "melancholic",
+          "lyrics": []
+        },
+        {
+          "title": "твоя любовь пройдет не скоро (speed up)",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1784575040923_3.mp3",
+          "mood": "melancholic",
+          "lyrics": []
         }
       ]
     }
