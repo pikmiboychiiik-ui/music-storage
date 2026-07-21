@@ -72,7 +72,7 @@
       "bio": "Росийский инди-поп и инди-рок исполнитель, сонграйтер и блогер\n",
       "genre": "Pop",
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/1781305213490.png",
-      "releaseCount": 4,
+      "releaseCount": 5,
       "hasWarning": false,
       "warningText": ""
     },
@@ -3638,16 +3638,16 @@
     }
   ],
   "appUpdate": {
-    "version": "1.0.51",
-    "versionCode": 56,
+    "version": "1.0.46",
+    "versionCode": 5,
     "apkUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/app-release.apk",
-    "releaseNotes": "аф",
+    "releaseNotes": "bug fixxx",
     "forceUpdate": true,
     "isBeta": false,
-    "publishedAt": "2026-07-21T15:58:19.530Z",
-    "downloads": 15,
+    "publishedAt": "2026-07-20T14:17:34.629Z",
+    "downloads": 10,
     "fileSize": "13.10 MB",
-    "checksum": "sha256-njuoyy8f"
+    "checksum": "sha256-o63e85px"
   },
   "collections": [],
   "likes": {
