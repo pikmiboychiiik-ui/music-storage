@@ -3639,7 +3639,7 @@
   ],
   "appUpdate": {
     "version": "1.0.57",
-    "versionCode": 456,
+    "versionCode": 56,
     "apkUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/app-release.apk",
     "releaseNotes": "пицца пеперони",
     "forceUpdate": true,
