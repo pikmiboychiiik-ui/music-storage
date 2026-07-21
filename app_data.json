@@ -72,7 +72,7 @@
       "bio": "Росийский инди-поп и инди-рок исполнитель, сонграйтер и блогер\n",
       "genre": "Pop",
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/1781305213490.png",
-      "releaseCount": 4,
+      "releaseCount": 5,
       "hasWarning": false,
       "warningText": ""
     },
@@ -3564,6 +3564,24 @@
           "lyrics": []
         }
       ]
+    },
+    {
+      "id": "1784645350170",
+      "artistId": "1781305213490",
+      "type": "ep",
+      "title": "бездарен",
+      "date": "2023-11-24",
+      "genre": "Pop",
+      "coverUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/covers/1784645350170.png",
+      "accentColor": "#ffffff",
+      "tracks": [
+        {
+          "title": "бездарен",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1784645350170_0.mp3",
+          "mood": "melancholic",
+          "lyrics": []
+        }
+      ]
     }
   ],
   "presaves": [
@@ -3638,16 +3656,16 @@
     }
   ],
   "appUpdate": {
-    "version": "1.0.49",
+    "version": "1.0.46",
     "versionCode": 5,
     "apkUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/app-release.apk",
-    "releaseNotes": "update fix",
+    "releaseNotes": "bug fixxx",
     "forceUpdate": true,
     "isBeta": false,
-    "publishedAt": "2026-07-21T14:43:18.406Z",
-    "downloads": 13,
+    "publishedAt": "2026-07-20T14:17:34.629Z",
+    "downloads": 10,
     "fileSize": "13.10 MB",
-    "checksum": "sha256-dabl1ht9"
+    "checksum": "sha256-o63e85px"
   },
   "collections": [],
   "likes": {
