@@ -3638,16 +3638,16 @@
     }
   ],
   "appUpdate": {
-    "version": "1.0.60",
-    "versionCode": 444,
+    "version": "1.0.61",
+    "versionCode": 423,
     "apkUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/app-release.apk",
-    "releaseNotes": "яхочуматчуууу",
+    "releaseNotes": "яхочуайслатте",
     "forceUpdate": true,
     "isBeta": false,
-    "publishedAt": "2026-07-28T19:34:03.073Z",
-    "downloads": 24,
+    "publishedAt": "2026-07-28T19:56:54.046Z",
+    "downloads": 25,
     "fileSize": "13.11 MB",
-    "checksum": "sha256-z5ag1bug"
+    "checksum": "sha256-6sgv4fam"
   },
   "collections": [],
   "likes": {
