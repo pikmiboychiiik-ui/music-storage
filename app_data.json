@@ -3566,73 +3566,103 @@
       ]
     },
     {
-      "id": "1785344419358",
+      "id": "1785345926417",
       "artistId": "1781471487268",
       "type": "album",
-      "title": "ДСП в головах",
-      "date": "2007-08-31",
+      "title": "Дивный Прибор",
+      "date": "2008-07-30",
       "genre": "Rock",
-      "coverUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/covers/1785344419358.png",
+      "coverUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/covers/1785345926417.png",
       "accentColor": "#ffffff",
       "tracks": [
         {
-          "title": "REC000",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785344419358_0.mp3",
-          "mood": "dark",
-          "lyrics": []
-        },
-        {
-          "title": "Аэлита",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785344419358_1.mp3",
+          "title": "Интеграция",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785345926417_0.mp3",
           "mood": "trippy",
           "lyrics": []
         },
         {
-          "title": "Faustovo",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785344419358_2.mp3",
-          "mood": "trippy",
-          "lyrics": []
-        },
-        {
-          "title": "В убежище",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785344419358_3.mp3",
-          "mood": "trippy",
-          "lyrics": []
-        },
-        {
-          "title": "Маринованный заяц",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785344419358_4.mp3",
-          "mood": "trippy",
-          "lyrics": []
-        },
-        {
-          "title": "Колыбельная",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785344419358_5.mp3",
-          "mood": "trippy",
-          "lyrics": []
-        },
-        {
-          "title": "Уши",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785344419358_6.mp3",
-          "mood": "trippy",
-          "lyrics": []
-        },
-        {
-          "title": "Школа",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785344419358_7.mp3",
+          "title": "Лечу",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785345926417_1.mp3",
           "mood": "melancholic",
           "lyrics": []
         },
         {
-          "title": "Рэггей",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785344419358_8.mp3",
+          "title": ")))",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785345926417_2.mp3",
+          "mood": "melancholic",
+          "lyrics": []
+        },
+        {
+          "title": "Вспух!",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785345926417_3.mp3",
           "mood": "trippy",
           "lyrics": []
         },
         {
-          "title": "Ё как О",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785344419358_9.mp3",
+          "title": "Не плачь",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785345926417_4.mp3",
+          "mood": "melancholic",
+          "lyrics": []
+        },
+        {
+          "title": "Человек",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785345926417_5.mp3",
+          "mood": "dreamy",
+          "lyrics": []
+        },
+        {
+          "title": "Влажность",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785345926417_6.mp3",
+          "mood": "dark",
+          "lyrics": []
+        },
+        {
+          "title": "Нашёл",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785345926417_7.mp3",
           "mood": "trippy",
+          "lyrics": []
+        },
+        {
+          "title": "Помнишь",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785345926417_8.mp3",
+          "mood": "trippy",
+          "lyrics": []
+        },
+        {
+          "title": "Игрушки",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785345926417_9.mp3",
+          "mood": "trippy",
+          "lyrics": []
+        },
+        {
+          "title": "Напрягся",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785345926417_10.mp3",
+          "mood": "dreamy",
+          "lyrics": []
+        },
+        {
+          "title": "Укус бешеного тигра",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785345926417_11.mp3",
+          "mood": "trippy",
+          "lyrics": []
+        },
+        {
+          "title": "Где",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785345926417_12.mp3",
+          "mood": "trippy",
+          "lyrics": []
+        },
+        {
+          "title": "Пора",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785345926417_13.mp3",
+          "mood": "trippy",
+          "lyrics": []
+        },
+        {
+          "title": "Не говорите ватти",
+          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785345926417_14.mp3",
+          "mood": "melancholic",
           "lyrics": []
         }
       ]
@@ -3710,16 +3740,16 @@
     }
   ],
   "appUpdate": {
-    "version": "1.0.60",
-    "versionCode": 444,
-    "apkUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/app-release.apk",
-    "releaseNotes": "яхочуматчуууу",
+    "version": "1.0.62",
+    "versionCode": 234,
+    "apkUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/app-release-v1.0.62.apk",
+    "releaseNotes": "яхочучай",
     "forceUpdate": true,
     "isBeta": false,
-    "publishedAt": "2026-07-28T19:34:03.073Z",
-    "downloads": 24,
-    "fileSize": "13.11 MB",
-    "checksum": "sha256-z5ag1bug"
+    "publishedAt": "2026-07-29T11:53:32.393Z",
+    "downloads": 26,
+    "fileSize": "13749220",
+    "checksum": "88f89a8e6972150047adda13a360ad41591b8a0d23e262f8e9d2dd4ec3347f52"
   },
   "collections": [],
   "likes": {
