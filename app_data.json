@@ -82,7 +82,7 @@
       "bio": "Название группы происходит от чит-кода giveusatank из игры Grand Theft Auto III, после ввода которого с неба падает танк.",
       "genre": "Rock",
       "photoUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/artist_photos/1781471487268.png",
-      "releaseCount": 2,
+      "releaseCount": 1,
       "hasWarning": false,
       "warningText": ""
     },
@@ -3564,108 +3564,6 @@
           "lyrics": []
         }
       ]
-    },
-    {
-      "id": "1785345926417",
-      "artistId": "1781471487268",
-      "type": "album",
-      "title": "Дивный Прибор",
-      "date": "2008-07-30",
-      "genre": "Rock",
-      "coverUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/covers/1785345926417.png",
-      "accentColor": "#ffffff",
-      "tracks": [
-        {
-          "title": "Интеграция",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785345926417_0.mp3",
-          "mood": "trippy",
-          "lyrics": []
-        },
-        {
-          "title": "Лечу",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785345926417_1.mp3",
-          "mood": "melancholic",
-          "lyrics": []
-        },
-        {
-          "title": ")))",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785345926417_2.mp3",
-          "mood": "melancholic",
-          "lyrics": []
-        },
-        {
-          "title": "Вспух!",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785345926417_3.mp3",
-          "mood": "trippy",
-          "lyrics": []
-        },
-        {
-          "title": "Не плачь",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785345926417_4.mp3",
-          "mood": "melancholic",
-          "lyrics": []
-        },
-        {
-          "title": "Человек",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785345926417_5.mp3",
-          "mood": "dreamy",
-          "lyrics": []
-        },
-        {
-          "title": "Влажность",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785345926417_6.mp3",
-          "mood": "dark",
-          "lyrics": []
-        },
-        {
-          "title": "Нашёл",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785345926417_7.mp3",
-          "mood": "trippy",
-          "lyrics": []
-        },
-        {
-          "title": "Помнишь",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785345926417_8.mp3",
-          "mood": "trippy",
-          "lyrics": []
-        },
-        {
-          "title": "Игрушки",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785345926417_9.mp3",
-          "mood": "trippy",
-          "lyrics": []
-        },
-        {
-          "title": "Напрягся",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785345926417_10.mp3",
-          "mood": "dreamy",
-          "lyrics": []
-        },
-        {
-          "title": "Укус бешеного тигра",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785345926417_11.mp3",
-          "mood": "trippy",
-          "lyrics": []
-        },
-        {
-          "title": "Где",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785345926417_12.mp3",
-          "mood": "trippy",
-          "lyrics": []
-        },
-        {
-          "title": "Пора",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785345926417_13.mp3",
-          "mood": "trippy",
-          "lyrics": []
-        },
-        {
-          "title": "Не говорите ватти",
-          "url": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/tracks/1785345926417_14.mp3",
-          "mood": "melancholic",
-          "lyrics": []
-        }
-      ]
     }
   ],
   "presaves": [
@@ -3740,16 +3638,16 @@
     }
   ],
   "appUpdate": {
-    "version": "1.0.62",
-    "versionCode": 234,
-    "apkUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/app-release-v1.0.62.apk",
-    "releaseNotes": "яхочучай",
+    "version": "1.0.63",
+    "versionCode": 543,
+    "apkUrl": "https://raw.githubusercontent.com/pikmiboychiiik-ui/music-storage/main/app-release-v1.0.63.apk",
+    "releaseNotes": "немножко повисите на телефоне, хорошо?\nхорошо повешусь :3",
     "forceUpdate": true,
     "isBeta": false,
-    "publishedAt": "2026-07-29T11:53:32.393Z",
-    "downloads": 26,
-    "fileSize": "13749220",
-    "checksum": "88f89a8e6972150047adda13a360ad41591b8a0d23e262f8e9d2dd4ec3347f52"
+    "publishedAt": "2026-07-29T18:06:03.299Z",
+    "downloads": 27,
+    "fileSize": "13753533",
+    "checksum": "1e438cda04056e5618eec074635cee96dc430f52cb68a89a6f6fc57859b7744a"
   },
   "collections": [],
   "likes": {
